@@ -250,6 +250,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-teracube-v7101o \
 	treble-overlay-tethering \
 	treble-overlay-tethering-nobpf \
+	treble-overlay-umidigi-A13-Pro-Max-5G \
 	treble-overlay-umidigi-A3S \
 	treble-overlay-umidigi-power \
 	treble-overlay-unihertz-jelly2 \
