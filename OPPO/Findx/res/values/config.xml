@@ -790,12 +790,6 @@
     <integer name="config_autoBrightnessBrighteningLightDebounce">4000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">8000</integer>
 
-    <dimen name="rounded_corner_radius">0.0dip</dimen>
-    <dimen name="rounded_corner_radius_adjustment">0.0px</dimen>
-    <dimen name="rounded_corner_radius_bottom">0.0dip</dimen>
-    <dimen name="rounded_corner_radius_bottom_adjustment">0.0px</dimen>
-    <dimen name="rounded_corner_radius_top">0.0dip</dimen>
-    <dimen name="rounded_corner_radius_top_adjustment">0.0px</dimen>
     <dimen name="status_bar_content_number_size">48.0sp</dimen>
     <dimen name="status_bar_edge_ignore">5.0dip</dimen>
     <item type="dimen" name="status_bar_height">@dimen/status_bar_height_portrait</item>
