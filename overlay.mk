@@ -154,7 +154,6 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oppo-a54 \
 	treble-overlay-oppo-a54-systemui \
 	treble-overlay-oppo-findx \
-	treble-overlay-oppo-findx-systemui \
 	treble-overlay-oppo-findx3pro \
 	treble-overlay-oppo-findx3pro-systemui \
 	treble-overlay-oppo-reno6-5g \
