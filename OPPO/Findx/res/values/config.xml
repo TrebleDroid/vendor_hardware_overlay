@@ -804,6 +804,7 @@
     <bool name="config_displayBlanksAfterDoze">false</bool>
     <bool name="config_dozeAfterScreenOff">true</bool>
     <bool name="config_dozeAfterScreenOffByDefault">true</bool>
+    <bool name="config_supportDoubleTapWake">true</bool>
     
     <string name="config_dozeDoubleTapSensorType" translatable="true">com.google.sensor.double_touch</string>
 </resources>
