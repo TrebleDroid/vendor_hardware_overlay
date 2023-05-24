@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="status_bar_height">108px</dimen>
+    <dimen name="status_bar_height_portrait">108px</dimen>
+    <dimen name="status_bar_height_landscape">28dp</dimen>
+    <dimen name="rounded_corner_radius">36dp</dimen>
     <string-array name="networkAttributes">
         <item>wifi,1,1,1,-1,true</item>
         <item>mobile,0,0,0,-1,true</item>
@@ -48,4 +52,5 @@
     <integer name="config_screenBrightnessDark">1</integer>
     <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">3000</integer>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">M -24,0 L -24,36 L 24,36 L 24,0 Z</string>
 </resources>
