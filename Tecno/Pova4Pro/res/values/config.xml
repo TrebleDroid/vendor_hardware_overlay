@@ -2,8 +2,8 @@
 <resources>
     <dimen name="status_bar_height">108px</dimen>
     <dimen name="status_bar_height_portrait">108px</dimen>
-    <dimen name="status_bar_height_landscape">28dp</dimen>
-    <dimen name="rounded_corner_radius">36dp</dimen>
+    <dimen name="status_bar_height_landscape">28.0dip</dimen>
+    <dimen name="rounded_corner_radius">36.0dip</dimen>
     <string-array name="networkAttributes">
         <item>wifi,1,1,1,-1,true</item>
         <item>mobile,0,0,0,-1,true</item>
@@ -34,6 +34,9 @@
         <item>/system/framework/arm/boot-ext.vdex</item>
         <item>/system/framework/arm/boot.vdex</item>
         <item>/system/framework/arm/boot-framework.vdex</item>
+    </string-array>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
     </string-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>8</item>
@@ -77,6 +80,9 @@
     <string-array name="config_ephemeralResolverPackage">
         <item>com.google.android.gms</item>
     </string-array>
+    <bool name="config_dozeAfterScreenOff">true</bool>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_device_volte_available">false</bool>
     <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
@@ -95,5 +101,8 @@
     <integer name="config_autoBrightnessDarkeningLightDebounce">3000</integer>
     <integer name="config_defaultPeakRefreshRate">121</integer>
     <integer name="config_defaultRefreshRate">121</integer>
+    <integer name="config_screenBrightnessDoze">5</integer>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.003921569</item>
     <string translatable="false" name="config_mainBuiltInDisplayCutout">M -24,0 L -24,36 L 24,36 L 24,0 Z</string>
 </resources>
