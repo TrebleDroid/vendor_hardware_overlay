@@ -41,6 +41,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-DUK \
 	treble-overlay-huawei-EML \
 	treble-overlay-huawei-FIG \
+	treble-overlay-huawei-JKM \
 	treble-overlay-huawei-LLD \
 	treble-overlay-huawei-MAR \
 	treble-overlay-huawei-PIC \
@@ -163,6 +164,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oukitel-c18pro \
 	treble-overlay-oukitel-wp8pro \
 	treble-overlay-razer-cheryl \
+	treble-overlay-realme-10pro \
+	treble-overlay-realme-10pro-systemui \
 	treble-overlay-realme-6 \
 	treble-overlay-realme-6i \
 	treble-overlay-realme-8-5g \
