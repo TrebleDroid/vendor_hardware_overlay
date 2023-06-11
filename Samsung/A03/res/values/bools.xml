@@ -8,6 +8,7 @@
     <bool name="config_enableWifiDisplay">true</bool>
     <bool name="config_hearing_aid_profile_supported">false</bool>
     <bool name="config_setColorTransformAccelerated">true</bool>
+	<bool name="config_supportSystemNavigationKeys">false</bool>
     <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
     <bool name="config_switch_phone_on_voice_reg_state_change">false</bool>
     <bool name="config_useDevInputEventForAudioJack">true</bool>
