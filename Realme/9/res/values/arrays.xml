@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_biometric_sensors">
+        <item>0:2:15</item>
+    </array>
+    <array name="config_defaultPinnerServiceFiles">
+        <item>/system/framework/framework.jar</item>
+        <item>/system/lib64/libstagefright.so</item>
+        <item>/system/lib64/libcodec2_vndk.so</item>
+        <item>/apex/com.android.art/javalib/core-oj.jar</item>
+        <item>/system/framework/arm64/boot-framework.oat</item>
+        <item>/system/framework/arm/boot-framework.oat</item>
+        <item>/system/lib64/libsqlite.so</item>
+        <item>/system/lib64/libhwui.so</item>
+        <item>/apex/com.android.conscrypt/lib64/libcrypto.so</item>
+        <item>/apex/com.android.art/javalib/core-icu4j.jar</item>
+        <item>/system/lib64/libsfplugin_ccodec_utils.so</item>
+        <item>/system/lib64/libsfplugin_ccodec.so</item>
+        <item>/system/lib64/libstagefright_bufferpool@2.0.1.so</item>
+        <item>/system/lib64/libcodec2_hidl_client@1.0.so</item>
+        <item>/apex/com.android.conscrypt/javalib/conscrypt.jar</item>
+        <item>/apex/com.android.art/javalib/arm64/boot.oat</item>
+        <item>/system/lib64/libbinder.so</item>
+        <item>/system/lib64/android.hardware.media.c2@1.1.so</item>
+        <item>/system/lib64/android.hardware.media.bufferpool@2.0.so</item>
+        <item>/system/lib64/libRS_internal.so</item>
+        <item>/system/lib64/libmediametrics.so</item>
+        <item>/system/lib64/libmedia_omx.so</item>
+        <item>/system/framework/mediatek-framework.jar</item>
+        <item>/apex/com.android.art/lib/libart.so</item>
+        <item>/apex/com.android.art/javalib/arm/boot.oat</item>
+        <item>/apex/com.android.art/lib/libart-compiler.so</item>
+        <item>/system/lib/libhwui.so</item>
+        <item>/system/lib/libandroid_runtime.so</item>
+        <item>/system/lib/libhidlbase.so</item>
+        <item>/apex/com.android.art/lib/libartbase.so</item>
+        <item>/apex/com.android.conscrypt/lib/libcrypto.so</item>
+        <item>/system/lib/libc++.so</item>
+    </array>
+    <array name="config_tether_wifi_regexs">
+        <item>softap0</item>
+        <item>wigig0</item>
+    </array>
+</resources>
