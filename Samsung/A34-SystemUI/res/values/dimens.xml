@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_padding_end">12.0dip</dimen>
+    <dimen name="status_bar_padding_start">12.0dip</dimen>
+    <dimen name="rounded_corner_radius_bottom">32.0dip</dimen>
+    <dimen name="rounded_corner_radius_top">32.0dip</dimen>
+    <dimen name="rounded_corner_radius_for_multiwindow">12.0dip</dimen>
+    <dimen name="status_bar_height_portrait">24.0dip</dimen>
+    <dimen name="status_bar_height_landscape">24.0dip</dimen>
+    <dimen name="status_bar_height_default">24.0dip</dimen>
+</resources>

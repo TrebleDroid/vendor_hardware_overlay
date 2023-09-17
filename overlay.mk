@@ -213,8 +213,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a20s-systemui \
 	treble-overlay-samsung-a21s \
 	treble-overlay-samsung-a21s-systemui \
-        treble-overlay-samsung-a22x \
-        treble-overlay-samsung-a22x-systemui \
+	treble-overlay-samsung-a22x \
+	treble-overlay-samsung-a22x-systemui \
 	treble-overlay-samsung-a30 \
 	treble-overlay-samsung-a31 \
 	treble-overlay-samsung-a31-systemui \
@@ -222,6 +222,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a32-systemui \
 	treble-overlay-samsung-a33 \
 	treble-overlay-samsung-a33-systemui \
+	treble-overlay-samsung-a34 \
+	treble-overlay-samsung-a34-systemui \
 	treble-overlay-samsung-a40 \
 	treble-overlay-samsung-a40-systemui \
 	treble-overlay-samsung-a50 \
