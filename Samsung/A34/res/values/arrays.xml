@@ -54,7 +54,6 @@
         <item>999999</item>
     </integer-array>
     <string-array name="config_defaultPinnerServiceFiles">
-        <item>/system/framework/arm/boot-mediatek-framework.vdex</item>
         <item>/system/lib/libjavacrypto.so</item>
         <item>/system/lib/libhidltransport.so</item>
         <item>/system/framework/arm/boot-core-libart.oat</item>
