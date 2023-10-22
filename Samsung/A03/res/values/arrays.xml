@@ -46,10 +46,6 @@
         <item>5000</item>
         <item>10000</item>
     </integer-array>
-    <integer-array name="config_longPressVibePattern">
-        <item>0</item>
-        <item>30</item>
-    </integer-array>
     <integer-array name="config_screenBrightnessBacklight">
         <item>1</item>
         <item>3</item>
