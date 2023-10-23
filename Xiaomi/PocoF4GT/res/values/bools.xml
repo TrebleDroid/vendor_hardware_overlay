@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
+    <bool name="config_autoBrightnessResetAmbientLuxAfterWarmUp">true</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_displayBlanksAfterDoze">false</bool>
+    <bool name="config_displayBrightnessBucketsInDoze">false</bool>
+    <bool name="config_dozeAfterScreenOffByDefault">true</bool>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_dozeSupportsAodWallpaper">true</bool>
+    <bool name="config_enableBurnInProtection">false</bool>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <item type="bool" name="config_nightDisplayAvailable">@bool/config_setColorTransformAccelerated</item>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
+    <bool name="config_setColorTransformAccelerated">false</bool>
+    <bool name="config_suspendWhenScreenOffDueToProximity">false</bool>
+</resources>

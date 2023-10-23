@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="config_ambientBrighteningThresholds">
+        <item>100</item>
+    </integer-array>
+    <integer-array name="config_ambientDarkeningThresholds">
+        <item>200</item>
+    </integer-array>
+    <array name="config_ambientThresholdLevels" />
+    <array name="config_autoBrightnessButtonBacklightValues" />
+    <array name="config_autoBrightnessDisplayValuesNits" />
+    <array name="config_autoBrightnessLcdBacklightValues" />
+    <array name="config_autoBrightnessLevels" />
+    <array name="config_minimumBrightnessCurveNits">
+        <item>0.0</item>
+        <item>50.0</item>
+        <item>90.0</item>
+    </array>
+    <integer-array name="config_screenBrighteningThresholds">
+        <item>100</item>
+    </integer-array>
+    <array name="config_screenBrightnessBacklight" />
+    <array name="config_screenBrightnessNits" />
+    <integer-array name="config_screenDarkeningThresholds">
+        <item>200</item>
+    </integer-array>
+</resources>
