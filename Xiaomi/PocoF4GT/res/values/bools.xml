@@ -8,11 +8,14 @@
     <bool name="config_dozeAfterScreenOffByDefault">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_dozeSupportsAodWallpaper">true</bool>
-    <bool name="config_enableBurnInProtection">false</bool>
-    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
     <item type="bool" name="config_nightDisplayAvailable">@bool/config_setColorTransformAccelerated</item>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
     <bool name="config_setColorTransformAccelerated">false</bool>
+    <bool name="config_showNavigationBar">true</bool>
     <bool name="config_suspendWhenScreenOffDueToProximity">false</bool>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="config_wifi_background_scan_support">true</bool>
 </resources>
