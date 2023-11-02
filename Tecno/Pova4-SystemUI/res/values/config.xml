@@ -20,11 +20,5 @@
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds. -->
 <resources>
-    <!-- Doze: check proximity sensor before pulsing? -->
-    <bool name="doze_proximity_check_before_pulse">false</bool>
-
-    <!-- If not zero, limits the internal screen recorder's framerate to the set value. -->
-    <integer name="config_screenRecorderMaxFramerate">90</integer>
-
     <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
 </resources>
