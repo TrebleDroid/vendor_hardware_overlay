@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lenovo-Q706F \
 	treble-overlay-lenovo-Y70 \
 	treble-overlay-lenovo-k5pro \
+	treble-overlay-lenovo-p11_pro_plus \
 	treble-overlay-lenovo-s5 \
 	treble-overlay-lenovo-s5pro \
 	treble-overlay-lenovo-tabv7 \
@@ -87,6 +88,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-misc-dt2w \
 	treble-overlay-misc-minimal-brightness \
 	treble-overlay-misc-spen-pointer \
+	treble-overlay-misc-transparent-pointer \
 	treble-overlay-moto-e5 \
 	treble-overlay-moto-e5plus \
 	treble-overlay-moto-e6plus \
@@ -129,6 +131,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-pnx-8.1-x7 \
 	treble-overlay-nokia-pnx-8.1-x7-systemui \
 	treble-overlay-nubia-redmagic3s \
+	treble-overlay-nubia-redmagic6series \
 	treble-overlay-nubia-z18mini \
 	treble-overlay-oneplus-ace2 \
 	treble-overlay-oneplus-ace2-systemui \
@@ -220,6 +223,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a33 \
 	treble-overlay-samsung-a33-systemui \
 	treble-overlay-samsung-a40 \
+	treble-overlay-samsung-a40-systemui \
 	treble-overlay-samsung-a50 \
 	treble-overlay-samsung-a51 \
 	treble-overlay-samsung-a51-systemui \
@@ -286,6 +290,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-teclast-p20hd \
 	treble-overlay-teclast-t30 \
 	treble-overlay-tecno-camon11 \
+	treble-overlay-tecno-camon20pro4g \
 	treble-overlay-tecno-pova4pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
@@ -346,6 +351,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-pocom4pro5g \
 	treble-overlay-xiaomi-pocom4pro5g-systemui \
 	treble-overlay-xiaomi-pocom5 \
+	treble-overlay-xiaomi-pocom5-systemui \
 	treble-overlay-xiaomi-pocox3gt \
 	treble-overlay-xiaomi-redmi10x5g \
 	treble-overlay-xiaomi-redmi10x5g-systemui \

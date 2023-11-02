@@ -37,27 +37,33 @@
     <string-array name="config_biometric_sensors">
         <item>0:2:15</item>
     </string-array>
-    <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>8</item>
-        <item>64</item>
-        <item>98</item>
-        <item>104</item>
-        <item>110</item>
-        <item>116</item>
-        <item>122</item>
-        <item>128</item>
-        <item>134</item>
-        <item>182</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-        <item>255</item>
-    </integer-array>
+    <array name="config_autoBrightnessDisplayValuesNits">
+        <item>4.522</item>
+        <item>20.246</item>
+        <item>55.509</item>
+        <item>74.653</item>
+        <item>82.757</item>
+        <item>93.15</item>
+        <item>117.678</item>
+        <item>138.666</item>
+        <item>164.847</item>
+        <item>189.157</item>
+        <item>207.656</item>
+        <item>221.191</item>
+        <item>277.164</item>
+        <item>350.798</item>
+        <item>391.524</item>
+        <item>414.81</item>
+        <item>434.151</item>
+        <item>455.291</item>
+        <item>490.922</item>
+        <item>500</item>
+    </array>
     <integer-array name="config_autoBrightnessLevels">
+        <item>6</item>
+        <item>18</item>
+        <item>34</item>
+        <item>82</item>
         <item>128</item>
         <item>256</item>
         <item>384</item>
@@ -65,16 +71,14 @@
         <item>640</item>
         <item>768</item>
         <item>896</item>
-        <item>1024</item>
-        <item>2048</item>
-        <item>4096</item>
-        <item>6144</item>
+        <item>1536</item>
+        <item>2560</item>
+        <item>3584</item>
+        <item>4608</item>
+        <item>5632</item>
+        <item>7168</item>
         <item>8192</item>
-        <item>10240</item>
-        <item>12288</item>
-        <item>14336</item>
-        <item>16384</item>
-        <item>18432</item>
+        <item>8704</item>
     </integer-array>
     <string-array name="config_tether_bluetooth_regexs">
         <item>bt-pan</item>
@@ -109,9 +113,10 @@
     <integer name="config_screenBrightnessDark">1</integer>
     <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
     <integer name="config_autoBrightnessDarkeningLightDebounce">3000</integer>
+    <integer name="config_screenBrightnessDoze">5</integer>
     <integer name="config_defaultPeakRefreshRate">121</integer>
     <integer name="config_defaultRefreshRate">121</integer>
-    <integer name="config_screenBrightnessDoze">5</integer>
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.4</item>
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.003921569</item>
 </resources>
