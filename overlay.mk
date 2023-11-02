@@ -290,6 +290,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-camon11 \
 	treble-overlay-tecno-camon20pro4g \
 	treble-overlay-tecno-pova4 \
+	treble-overlay-tecno-pova4 \
 	treble-overlay-tecno-pova4pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \

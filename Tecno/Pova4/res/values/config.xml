@@ -90,7 +90,6 @@
         <item>com.google.android.gms</item>
     </string-array>
     <bool name="config_dozeAfterScreenOff">true</bool>
-    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
     <bool name="config_device_volte_available">false</bool>
