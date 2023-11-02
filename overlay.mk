@@ -88,6 +88,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-misc-dt2w \
 	treble-overlay-misc-minimal-brightness \
 	treble-overlay-misc-spen-pointer \
+	treble-overlay-misc-transparent-pointer \
 	treble-overlay-moto-e5 \
 	treble-overlay-moto-e5plus \
 	treble-overlay-moto-e6plus \
@@ -130,6 +131,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-pnx-8.1-x7 \
 	treble-overlay-nokia-pnx-8.1-x7-systemui \
 	treble-overlay-nubia-redmagic3s \
+	treble-overlay-nubia-redmagic6series \
 	treble-overlay-nubia-z18mini \
 	treble-overlay-oneplus-ace2 \
 	treble-overlay-oneplus-ace2-systemui \
