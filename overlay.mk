@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-duoqin-qin3ultra \
 	treble-overlay-duoqin-qin3ultra-systemui \
 	treble-overlay-duoqin-qinf21pro \
+	treble-overlay-doogee-v30t \
 	treble-overlay-essential-ph_1 \
 	treble-overlay-fairphone-fp3 \
 	treble-overlay-highpriomisc \
