@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="me.phh.treble.overlay.brandName.modelName"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <overlay android:targetPackage="android"
+        	android:requiredSystemPropertyName="Infinix/X6812B-OP/Infinix-X6812B:11/RP1A.200720.011/220416V439:user/release-keys"
+        	android:requiredSystemPropertyValue="+*infinix/hot11s*"
+		android:priority="639"
+		android:isStatic="true" />
+</manifest>
