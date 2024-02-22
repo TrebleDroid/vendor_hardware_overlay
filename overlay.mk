@@ -194,6 +194,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-realme-9i \
 	treble-overlay-realme-9i-systemui \
 	treble-overlay-realme-c2 \
+	treble-overlay-realme-c25s-systemui \
 	treble-overlay-realme-c3 \
 	treble-overlay-realme-gt2master \
 	treble-overlay-realme-gt2master-systemui \
