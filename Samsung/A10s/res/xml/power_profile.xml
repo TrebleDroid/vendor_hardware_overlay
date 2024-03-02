@@ -103,7 +103,7 @@
     <array name="memory.bandwidths">
         <value>45</value>
     </array>
-    <item name="battery.capacity">4000</item>
+    <item name="battery.capacity">6660</item>
     <item name="wifi.controller.idle">4</item>
     <item name="wifi.controller.rx">80</item>
     <item name="wifi.controller.tx">140</item>
