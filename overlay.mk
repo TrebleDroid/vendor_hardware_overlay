@@ -314,6 +314,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-spark10pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
+	treble-overlay-tecno-spark8c \
 	treble-overlay-telephony-caf-ims \
 	treble-overlay-telephony-floss-ims \
 	treble-overlay-telephony-hw-ims \
