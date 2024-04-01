@@ -313,6 +313,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-pova5pro \
 	treble-overlay-tecno-pova5pro-systemui \
 	treble-overlay-tecno-spark10pro \
+	treble-overlay-tecno-spark10pro-systemui \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
 	treble-overlay-telephony-caf-ims \
