@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_x">1087px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_y">1087px</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">1087px</dimen>
+</resources>
