@@ -4,7 +4,7 @@
         android:versionName="1.0">
         <overlay android:targetPackage="com.android.systemui"
                 android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
-                android:requiredSystemPropertyValue="+*edmi/lancelot*"
+                android:requiredSystemPropertyValue="+(*edmi/lancelot*|*edmi/galahad*)"
         android:priority="122"
         android:isStatic="true" />
 </manifest>

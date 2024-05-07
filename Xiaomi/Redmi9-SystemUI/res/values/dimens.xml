@@ -2,4 +2,7 @@
 <resources>
     <dimen name="navigation_side_padding">85.0dip</dimen>
     <dimen name="rounded_corner_content_padding">4.5dip</dimen>
+    <dimen name="status_bar_padding_end">4.5dip</dimen>
+    <dimen name="status_bar_padding_start">16.0dip</dimen>
+    <dimen name="status_bar_padding_top">7.0dip</dimen>
 </resources>
