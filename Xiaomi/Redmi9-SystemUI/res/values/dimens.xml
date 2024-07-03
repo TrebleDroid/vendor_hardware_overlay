@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="navigation_side_padding">85.0dip</dimen>
-    <dimen name="rounded_corner_content_padding">7.0dip</dimen>
+    <dimen name="status_bar_padding_start">19.0dip</dimen>
+    <dimen name="status_bar_padding_end">4.0dip</dimen>
     <dimen name="status_bar_padding_top">7.0dip</dimen>
+    <dimen name="navigation_side_padding">85.0dip</dimen>
+    <dimen name="keyguard_carrier_text_margin">28.0dip</dimen>
 </resources>
