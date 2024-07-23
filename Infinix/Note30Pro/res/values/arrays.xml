@@ -83,10 +83,6 @@
         <item>473.2181</item>
         <item>500</item>
     </array>
-    <string-array name="config_tether_bluetooth_regexs">
-        <item>bt-pan</item>
-        <item>bt-dun</item>
-    </string-array>
     <string-array name="config_tether_usb_regexs">
         <item>rndis\\d</item>
     </string-array>
