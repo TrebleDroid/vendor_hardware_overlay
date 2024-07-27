@@ -3,7 +3,7 @@
         android:versionCode="1"
         android:versionName="1.0">
         <overlay android:targetPackage="android"
-                android:requiredSystemPropertyName="ro.product.vendor.device"
+                android:requiredSystemPropertyName="ro.vendor.product.device"
                 android:requiredSystemPropertyValue="Infinix-X604_sprout"
                 android:priority="110"
                 android:isStatic="true" />
