@@ -24,6 +24,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-caf-ims \
 	treble-overlay-devinputjack \
 	treble-overlay-doogee-vmax \
+	treble-overlay-doogee-v30t \
 	treble-overlay-duoqin-qin2pro \
 	treble-overlay-duoqin-qin3ultra \
 	treble-overlay-duoqin-qin3ultra-systemui \
