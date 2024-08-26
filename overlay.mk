@@ -2,6 +2,7 @@ PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
 	TrebleApp \
+	treble-overlay-8849-tank-mini \
 	treble-overlay-Hisense-HLTE556N \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
