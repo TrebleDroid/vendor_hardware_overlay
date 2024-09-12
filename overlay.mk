@@ -18,9 +18,12 @@ PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfonemaxshot \
 	treble-overlay-blackview-bv6900 \
 	treble-overlay-blackview-bv9500plus \
+	treble-overlay-blackview-shark8 \
+	treble-overlay-blackview-shark8-systemui \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
 	treble-overlay-devinputjack \
+	treble-overlay-doogee-vmax \
 	treble-overlay-duoqin-qin2pro \
 	treble-overlay-duoqin-qin3ultra \
 	treble-overlay-duoqin-qin3ultra-systemui \
@@ -77,6 +80,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-lenovo-s5pro \
 	treble-overlay-lenovo-tabv7 \
 	treble-overlay-lenovo-tabv7-systemui \
+	treble-overlay-lenovo-y700_2023 \
+	treble-overlay-lenovo-y700_2023-systemui \
 	treble-overlay-lenovo-z5 \
 	treble-overlay-lg-g7 \
 	treble-overlay-lg-phoenix_lao_com-phoenix_sprout \
@@ -90,6 +95,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-mbi-s10-systemui \
 	treble-overlay-meizu-m2181 \
 	treble-overlay-meizu-m2181-systemui \
+	treble-overlay-meizu-m2461 \
+	treble-overlay-meizu-m2461-systemui \
 	treble-overlay-misc-aod \
 	treble-overlay-misc-aod-systemui \
 	treble-overlay-misc-dt2w \
@@ -158,6 +165,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-n200-systemui \
 	treble-overlay-oneplus-nord \
 	treble-overlay-oneplus-nord-systemui \
+	treble-overlay-oneplus-nord4 \
+	treble-overlay-oneplus-nord4-systemui \
 	treble-overlay-oneplus-nordce \
 	treble-overlay-oneplus-nordce-systemui \
 	treble-overlay-oneplus-op10pro \
@@ -260,6 +269,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-gta4l \
 	treble-overlay-samsung-gta7litewifi \
 	treble-overlay-samsung-gts7xllite \
+	treble-overlay-samsung-gts8 \
 	treble-overlay-samsung-gts8p \
 	treble-overlay-samsung-j6 \
 	treble-overlay-samsung-m31 \
@@ -343,7 +353,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-wifi5g \
 	treble-overlay-xiaomi-civi \
 	treble-overlay-xiaomi-civi-systemui \
+	treble-overlay-xiaomi-civi4pro \
+	treble-overlay-xiaomi-civi4pro-systemui \
 	treble-overlay-xiaomi-mi11lite5g \
+	treble-overlay-xiaomi-mi11lite5g-systemui \
 	treble-overlay-xiaomi-mi11tpro \
 	treble-overlay-xiaomi-mi12lite \
 	treble-overlay-xiaomi-mi12lite-systemui \
@@ -397,6 +410,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmik20pro \
 	treble-overlay-xiaomi-redmik20pro-systemui \
 	treble-overlay-xiaomi-redmik50ultra \
+	treble-overlay-xiaomi-redmik70 \
+	treble-overlay-xiaomi-redmik70-systemui \
 	treble-overlay-xiaomi-redminote10 \
 	treble-overlay-xiaomi-redminote10pro \
 	treble-overlay-xiaomi-redminote10s \
@@ -408,6 +423,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote115g-systemui \
 	treble-overlay-xiaomi-redminote125g \
 	treble-overlay-xiaomi-redminote12pro5g \
+	treble-overlay-xiaomi-redminote13pro4g \
+	treble-overlay-xiaomi-redminote13pro4g-systemui \
 	treble-overlay-xiaomi-redminote5 \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
