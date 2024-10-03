@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_dynamic_automatic_brightness_available">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_supportAudioSourceUnprocessed">false</bool>
+    <bool name="config_systemCaptionsServiceCallsEnabled">true</bool>
+      <bool name="config_carrier_volte_available">true</bool>
+    <bool name="config_device_volte_available">true</bool>
+    <bool name="config_enableExynosDisplaySolutionService">true</bool>
+    <bool name="config_enableWifiDisplay">true</bool>
+    <bool name="config_flipToScreenOffEnabled">false</bool>
+    <bool name="config_hotswapCapable">true</bool>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+</resources>
