@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-blackview-shark8-systemui \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
+	treble-overlay-cubot-p50 \
 	treble-overlay-devinputjack \
 	treble-overlay-doogee-vmax \
 	treble-overlay-duoqin-qin2pro \
@@ -325,6 +326,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-spark10pro \
 	treble-overlay-tecno-spark5 \
 	treble-overlay-tecno-spark6 \
+	treble-overlay-tecno-spark8c \
 	treble-overlay-telephony-caf-ims \
 	treble-overlay-telephony-floss-ims \
 	treble-overlay-telephony-hw-ims \
