@@ -22,6 +22,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-blackview-shark8-systemui \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
+	treble-overlay-cubot-p50 \
 	treble-overlay-devinputjack \
 	treble-overlay-doogee-vmax \
 	treble-overlay-duoqin-qin2pro \
