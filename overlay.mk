@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-alldocube-xneo \
 	treble-overlay-asus-rogphone \
+	treble-overlay-asus-rogphone-systemui \
 	treble-overlay-asus-zenfone5 \
 	treble-overlay-asus-zenfone5-10 \
 	treble-overlay-asus-zenfone5z \
