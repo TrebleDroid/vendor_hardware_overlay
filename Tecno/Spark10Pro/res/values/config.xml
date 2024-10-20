@@ -59,4 +59,10 @@
    <dimen name="status_bar_height_portrait">36.0dip</dimen>
    <integer name="config_shutdownBatteryTemperature">600</integer>
    <string name="config_mainBuiltInDisplayCutout">M -24,0 L -24,36 L 24,36 L 24,0 Z @dp</string>
+   <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+   <bool name="config_displayBlanksAfterDoze">false</bool>
+   <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+   <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+   <bool name="config_supportDoubleTapWake">true</bool>
 </resources>
+
