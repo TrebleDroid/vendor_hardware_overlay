@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources> name="config_autoBrightnessDisplayValuesNits">
+<resources>
+    <integer-array name="config_autoBrightnessDisplayValuesNits">
         <item>11</item>
         <item>15</item>
         <item>22</item>
@@ -1078,15 +1079,16 @@
         <item>998.039</item>
         <item>1000</item>
     </array>
-<integer-array name="config_availableColorModes">
+    <integer-array name="config_availableColorModes">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
-    </integer-array> name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    </integer-array>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_showNavigationBar">true</bool>
     <bool name="config_supportAudioSourceUnprocessed">false</bool>
-      <bool name="config_carrier_volte_available">true</bool>
+    <bool name="config_carrier_volte_available">true</bool>
     <bool name="config_device_volte_available">true</bool>
     <bool name="config_hotswapCapable">true</bool>
     <bool name="config_setColorTransformAccelerated">true</bool>
@@ -1095,8 +1097,7 @@
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
     <dimen name="status_bar_height_portrait">80.0px</dimen>
-            <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,7.822222222222222 a 10.31111111111111,10.31111111111111 0 1,0 0,20.62222222222222 a 10.31111111111111,10.31111111111111 0 1,0 0,-20.62222222222222 Z @dp</string>
     <integer name="config_defaultRefreshRate">0</integer>
-      <integer name="config_defaultPeakRefreshRate">120</integer>
-    
+    <integer name="config_defaultPeakRefreshRate">120</integer>
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,7.822222222222222 a 10.31111111111111,10.31111111111111 0 1,0 0,20.62222222222222 a 10.31111111111111,10.31111111111111 0 1,0 0,-20.62222222222222 Z @dp</string>
 </resources>
