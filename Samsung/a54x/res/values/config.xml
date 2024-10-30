@@ -2247,7 +2247,7 @@
     <dimen name="status_bar_camera_top_margin">22.0px</dimen>
     <dimen name="status_bar_height_portrait">80.0px</dimen>
     <dimen name="status_bar_indicator_corner_padding">60.0px</dimen>
-      <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,7.822222222222222‬‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,20.62222222222222‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,-20.62222222222222‬ Z @dp</string>
+      <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,7.822222222222222‬‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,20.62222222222222‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,-20.62222222222222‬ Z @dp</string> @dp</string>
       
        <integer name="config_longPressOnPowerBehavior">1</integer>
     <integer name="config_multiuserMaximumUsers">4</integer>
