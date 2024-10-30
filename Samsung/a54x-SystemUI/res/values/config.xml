@@ -6,5 +6,4 @@
     <dimen name="rounded_corner_radius_bottom">50.0dip</dimen>
     <dimen name="rounded_corner_radius_top">50.0dip</dimen>
     <dimen name="status_bar_height_portrait">6.779999mm</dimen>
-    <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,7.822222222222222‬‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,20.62222222222222‬ a 10.31111111111111‬,10.31111111111111‬ 0 1,0 0,-20.62222222222222‬ Z @dp</string>
 </resources>
