@@ -254,6 +254,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a53-systemui \
 	treble-overlay-samsung-a54x \
 	treble-overlay-samsung-a54x-systemui \
+	treble-overlay-samsung-a55 \
+	treble-overlay-samsung-a55-systemui \
 	treble-overlay-samsung-a60q \
 	treble-overlay-samsung-a7 \
 	treble-overlay-samsung-a70 \
