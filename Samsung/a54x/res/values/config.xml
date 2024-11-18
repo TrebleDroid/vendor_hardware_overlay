@@ -1093,11 +1093,18 @@
     <bool name="config_hotswapCapable">true</bool>
     <bool name="config_setColorTransformAccelerated">true</bool>
     <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
     <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.5019608</item>
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
     <dimen name="status_bar_height_portrait">80.0px</dimen>
     <integer name="config_defaultRefreshRate">0</integer>
     <integer name="config_defaultPeakRefreshRate">120</integer>
+    <integer name="config_burnInProtectionMaxRadius">100</integer>
+    <integer name="config_burnInProtectionMinHorizontalOffset">-50</integer>
+    <integer name="config_burnInProtectionMaxHorizontalOffset">50</integer>
+    <integer name="config_burnInProtectionMinVerticalOffset">-70</integer>
+    <integer name="config_burnInProtectionMaxVerticalOffset">70</integer>
     <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,7.822222222222222 a 10.31111111111111,10.31111111111111 0 1,0 0,20.62222222222222 a 10.31111111111111,10.31111111111111 0 1,0 0,-20.62222222222222 Z @dp</string>
 </resources>
