@@ -71,6 +71,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-note7 \
 	treble-overlay-infinix-note8 \
 	treble-overlay-infinix-s4 \
+	treble-overlay-Infinix-X6831 \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
 	treble-overlay-lenovo-Q706F \
