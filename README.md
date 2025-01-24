@@ -1,5 +1,7 @@
 This projects includes hardware-specific overlay changes, and an app which selects it dynamically
 
+[![Overlay Action Build](https://github.com/cool-dev-code/vendor_hardware_overlay/actions/workflows/Build.yml/badge.svg?branch=pie)](https://github.com/cool-dev-code/vendor_hardware_overlay/actions/workflows/Build.yml)
+
 # Here are the list of changes:
 - Set Telephony:config_enabled_lte to true on all 4G devices, so the user can select 4G network type in the settings
 - Enable Night Mode on devices where appropriate
