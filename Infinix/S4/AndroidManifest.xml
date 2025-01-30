@@ -4,7 +4,7 @@
         android:versionName="1.0">
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="ro.product.vendor.device"
-                android:requiredSystemPropertyValue="Infinix-X626"
+                android:requiredSystemPropertyValue="+(Infinix-X626*|Infinix-X610B)"
                 android:priority="24"
                 android:isStatic="true" />
 </manifest>

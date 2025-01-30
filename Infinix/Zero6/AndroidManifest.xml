@@ -3,8 +3,8 @@
         android:versionCode="1"
         android:versionName="1.0">
         <overlay android:targetPackage="android"
-                android:requiredSystemPropertyName="ro.product.vendor.device"
-                android:requiredSystemPropertyValue="Infinix-X620"
+                android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+                android:requiredSystemPropertyValue="+Infinix/*/Infinix-X620*"
                 android:priority="99"
                 android:isStatic="true" />
 </manifest>
