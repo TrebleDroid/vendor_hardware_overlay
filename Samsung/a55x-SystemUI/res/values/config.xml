@@ -1,6 +1,6 @@
 <resources>
-<dimen name="status_bar_padding_start">25.0px</dimen>
-<dimen name="status_bar_padding_top">45.0px</dimen>
+<dimen name="status_bar_padding_start">40.0px</dimen>
+<dimen name="status_bar_padding_top">35.0px</dimen>
 <dimen name="physical_power_button_center_screen_location_y">1150.0px</dimen>
 <dimen name="rounded_corner_radius_bottom">50.0dip</dimen>
 <dimen name="rounded_corner_radius_top">50.0dip</dimen>
