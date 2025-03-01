@@ -1085,9 +1085,8 @@
         <item>2</item>
         <item>3</item>
     </integer-array>
-    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_showNavigationBar">true</bool>
-    <bool name="config_supportAudioSourceUnprocessed">false</bool>
+    <bool name="config_supportAudioSourceUnprocessed">true</bool>
     <bool name="config_carrier_volte_available">true</bool>
     <bool name="config_device_volte_available">true</bool>
     <bool name="config_hotswapCapable">true</bool>
@@ -1095,9 +1094,18 @@
     <bool name="config_useDevInputEventForAudioJack">true</bool>
     <bool name="config_enableBurnInProtection">true</bool>
     <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
+    <integer name="config_screenBrightnessDim">11</integer>
+    <integer name="config_screenBrightnessSettingDefault">128</integer>
+    <integer name="config_screenBrightnessSettingMaximum">255</integer>
+    <integer name="config_screenBrightnessSettingMinimum">2</integer>
     <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.5019608</item>
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <bool name="config_supportDoubleTapWake">true</bool>
+    <bool name="config_wifi_dual_band_support">true</bool>
     <dimen name="status_bar_height_portrait">80.0px</dimen>
     <integer name="config_defaultRefreshRate">0</integer>
     <integer name="config_defaultPeakRefreshRate">120</integer>
