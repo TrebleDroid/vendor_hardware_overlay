@@ -1103,7 +1103,6 @@
     <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.5019608</item>
     <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
-    <bool name="config_setColorTransformAccelerated">true</bool>
     <bool name="config_supportDoubleTapWake">true</bool>
     <bool name="config_wifi_dual_band_support">true</bool>
     <dimen name="status_bar_height_portrait">80.0px</dimen>
