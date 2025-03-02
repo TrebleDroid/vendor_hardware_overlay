@@ -1095,7 +1095,7 @@
     <bool name="config_enableBurnInProtection">true</bool>
     <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
-    <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
+    <bool name="config_allowAutoBrightnessWhileDozing">false</bool>
     <integer name="config_screenBrightnessDim">11</integer>
     <integer name="config_screenBrightnessSettingDefault">128</integer>
     <integer name="config_screenBrightnessSettingMaximum">255</integer>
