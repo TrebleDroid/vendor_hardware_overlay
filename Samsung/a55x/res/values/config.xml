@@ -21,11 +21,11 @@
         <item>650</item>
         <item>800</item>
         <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
-        <item>1000</item>
+        <item>1050</item>
+        <item>1100</item>
+        <item>1150</item>
+        <item>1120</item>
+        <item>1300</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
         <item>1</item>
@@ -1077,7 +1077,7 @@
         <item>994.118</item>
         <item>996.078</item>
         <item>998.039</item>
-        <item>1000</item>
+        <item>1300</item>
     </array>
     <integer-array name="config_availableColorModes">
         <item>0</item>
@@ -1105,7 +1105,6 @@
     <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
     <bool name="config_supportDoubleTapWake">true</bool>
     <bool name="config_wifi_dual_band_support">true</bool>
-    <dimen name="status_bar_height_portrait">80.0px</dimen>
     <integer name="config_defaultRefreshRate">0</integer>
     <integer name="config_defaultPeakRefreshRate">120</integer>
     <integer name="config_burnInProtectionMaxRadius">100</integer>
