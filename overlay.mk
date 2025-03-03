@@ -58,7 +58,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-VTR \
 	treble-overlay-huawei-WAS \
 	treble-overlay-hw-ims \
-	treble-overlay-Infinix-X6831 \
+	treble-overlay-infinix-hot30 \
 	treble-overlay-infinix-note10 \
 	treble-overlay-infinix-note10pro \
 	treble-overlay-infinix-note12v2023 \
@@ -442,3 +442,4 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote9s \
 	treble-overlay-xiaomi-redminote9t \
 	treble-overlay-xiaomi-redmis2 \
+
