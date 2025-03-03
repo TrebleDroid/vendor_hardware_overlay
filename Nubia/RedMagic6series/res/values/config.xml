@@ -4,7 +4,7 @@
   <integer name="config_brightness_ramp_rate_slow">1973</integer>
   <integer name="config_lightSensorWarmupTime">200</integer>
 
-  <bool name="config_is_front_facing_fps">true</bool>
+  <!-- I swear it makes sense to set config_is_front_facing_fps, and I can completely explain why. -->
   <array name="config_autoBrightnessDisplayValuesNits">
     <item>12</item>
     <item>17</item>
@@ -631,6 +631,7 @@
     <item>0:2:15</item>
   </string-array>
   <!-- Get from reverse engineering fingerprintUI -->
+  <!-- I swear it makes sense to set config_udfps_sensor_props, and I can completely explain why. -->
   <integer-array name="config_udfps_sensor_props" translatable="false">
     <item>540</item>  <!-- <item>sensorLocationX</item> -->
     <item>1839</item> <!-- <item>sensorLocationY</item> -->

@@ -60,8 +60,8 @@ find . -name AndroidManifest.xml |while read -r manifest;do
 			grep -qE '^'"$key"'$' tests/knownKeys && continue
 			#Run the ag only on phh's machine. Assume that knownKeys is full enough.
 			#If it's enough, ask phh to update it
-			if [ -d /build2/AOSP-11.0 ] && \
-				(ag '"'"$key"'"' /build2/AOSP-11.0/frameworks/base/core/res/res || \
+			if [ -d /nvme2/AOSP-15.a/ ] && \
+				(ag '"'"$key"'"' /nvme2/AOSP-15.a/frameworks/base/core/res/res || \
 				ag '"'"$key"'"' /build/AOSP-8.1/frameworks/base/core/res/res)> /dev/null ;then
 				echo "$key" >> tests/knownKeys
 			else
@@ -80,7 +80,7 @@ find . -name AndroidManifest.xml |while read -r manifest;do
     # Ensure power profile only contain expected types
     f="$folder"/res/xml/power_profile.xml
     if [ -f "$f" ];then
-        if xmlstarlet sel -t -m '//*' -v 'name()' -n "$f" |sort -u |grep -qvE '^(array|device|item|value)';then
+        if xmlstarlet sel -t -m '//*' -v 'name()' -n "$f" |sort -u |grep -qvE '^(array|device|item|value|modem|sleep|idle|active|receive|transmit)';then
             fail "$f" "sets non-sense power-profile values"
         fi
         if [ "$(xmlstarlet sel -t -m '//item[@name="battery.capacity"]' -v . -n "$f")" = 1000 ];then

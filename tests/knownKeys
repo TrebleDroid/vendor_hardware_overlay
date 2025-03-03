@@ -149,3 +149,7 @@ config_screenBrightnessSettingMinimumFloat
 config_defaultRefreshRate
 config_defaultPeakRefreshRate
 config_screenBrightnessSettingDefaultFloat
+config_is_powerbutton_fps
+config_voice_capable
+config_sms_capable
+config_mobile_data_capable

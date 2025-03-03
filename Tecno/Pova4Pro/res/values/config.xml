@@ -24,15 +24,12 @@
         <item>mobile_vsim,2003,0,-1,60000,true</item>
     </string-array>
     <string-array name="config_defaultPinnerServiceFiles">
-        <item>/system/framework/arm/boot-mediatek-framework.vdex</item>
-        <item>/system/lib/libjavacrypto.so</item>
-        <item>/system/lib/libhidltransport.so</item>
-        <item>/system/framework/arm/boot-core-libart.oat</item>
-        <item>/system/framework/arm/boot-conscrypt.oat</item>
-        <item>/system/framework/arm/boot-core-libart.vdex</item>
-        <item>/system/framework/arm/boot-ext.vdex</item>
-        <item>/system/framework/arm/boot.vdex</item>
-        <item>/system/framework/arm/boot-framework.vdex</item>
+        <item>/apex/com.android.art/javalib/core-oj.jar</item>
+        <item>/apex/com.android.art/javalib/core-libart.jar</item>
+        <item>/system/framework/framework.jar</item>
+        <item>/system/framework/services.jar</item>
+        <item>/system/bin/surfaceflinger</item>
+        <item>/system_ext/priv-app/SystemUI/SystemUI.apk</item>
     </string-array>
     <string-array name="config_biometric_sensors">
         <item>0:2:15</item>
@@ -90,6 +87,7 @@
         <item>com.google.android.gms</item>
     </string-array>
     <bool name="config_dozeAfterScreenOff">true</bool>
+    <bool name="config_is_powerbutton_fps">true</bool>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
