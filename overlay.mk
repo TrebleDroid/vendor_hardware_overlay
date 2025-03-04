@@ -139,6 +139,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nokia-drg-6.1plus-x6 \
 	treble-overlay-nokia-nokia_3_2 \
 	treble-overlay-nokia-nokia_4_2 \
+	treble-overlay-nokia-nokia_5_4 \
 	treble-overlay-nokia-nokia_7_2 \
 	treble-overlay-nokia-nokia_7_2-systemui \
 	treble-overlay-nokia-pda_sprout-5.1plus-x5 \
