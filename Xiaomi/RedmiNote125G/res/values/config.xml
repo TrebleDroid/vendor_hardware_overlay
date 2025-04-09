@@ -104,7 +104,7 @@
     <integer name="config_screenBrightnessForVrSettingMinimum">632</integer>
     <integer name="config_screenBrightnessSettingDefault">1024</integer>
     <integer name="config_screenBrightnessSettingMaximum">2047</integer>
-    <integer name="config_screenBrightnessSettingMinimum">4</integer>
+    <integer name="config_screenBrightnessSettingMinimum">20</integer>
 
     <fraction name="config_autoBrightnessAdjustmentMaxGamma">100%</fraction>
     <fraction name="config_maximumScreenDimRatio">29.999996%</fraction>
