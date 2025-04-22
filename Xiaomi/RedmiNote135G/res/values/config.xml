@@ -384,9 +384,6 @@
     <bool name="config_wifi_fast_bss_transition_enabled">true</bool>
     <bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
 	
-    <dimen name="config_screenBrightnessSettingDefaultFloat">0.35</dimen>
-    <dimen name="config_screenBrightnessSettingMaximumFloat">1</dimen>
-    <dimen name="config_screenBrightnessSettingMinimumFloat">0.0039</dimen>
     <dimen name="navigation_bar_height">16dp</dimen>
     <dimen name="navigation_bar_height_landscape">16dp</dimen>
     <dimen name="navigation_bar_width">24dp</dimen>
@@ -412,6 +409,10 @@
     <integer name="config_defaultPeakRefreshRate">121</integer>
     <integer name="config_defaultRefreshRate">121</integer>
     <integer name="config_screenBrightnessDoze">5</integer>
+	
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">4</item>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0</item>
 	
     <string name="config_mainBuiltInDisplayCutout">M 0,0 H -28 V 94 H 28 V 0 H 0 Z</string>
 	<string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -28 V 94 H 28 V 0 H 0 Z</string>
