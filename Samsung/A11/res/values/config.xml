@@ -23,10 +23,6 @@
         <item>3000</item>
         <item>5000</item>
     </integer-array>
-    <string-array name="config_mobile_hotspot_provision_app">
-        <item>com.android.settings</item>
-        <item>com.samsung.android.settings.provisioning.ProvisioningActivity</item>
-    </string-array>
     <string-array name="config_tether_wifi_regexs">
         <item>wigig0</item>
         <item>wlan0</item>
