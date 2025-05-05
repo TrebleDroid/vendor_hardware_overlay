@@ -48,28 +48,6 @@
         <item>bnep\\d</item>
         <item>bt-pan</item>
     </string-array>
-    <string-array name="config_tether_dhcp_range">
-        <item>192.168.42.2</item>
-        <item>192.168.42.254</item>
-        <item>192.168.43.2</item>
-        <item>192.168.43.254</item>
-        <item>192.168.44.2</item>
-        <item>192.168.44.254</item>
-        <item>192.168.45.2</item>
-        <item>192.168.45.254</item>
-        <item>192.168.46.2</item>
-        <item>192.168.46.254</item>
-        <item>192.168.47.2</item>
-        <item>192.168.47.254</item>
-        <item>192.168.48.2</item>
-        <item>192.168.48.254</item>
-        <item>192.168.49.2</item>
-        <item>192.168.49.254</item>
-        <item>192.168.50.2</item>
-        <item>192.168.50.254</item>
-        <item>192.168.51.2</item>
-        <item>192.168.51.254</item>
-    </string-array>
     <integer-array name="config_tether_upstream_types">
         <item>0</item>
         <item>1</item>
@@ -105,23 +83,16 @@
     <bool name="config_showNavigationBar">true</bool>
     <bool name="config_supportAudioSourceUnprocessed">false</bool>
     <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
-    <bool name="config_wifi_softap_acs_supported">false</bool>
-    <bool name="config_wifi_softap_ieee80211ac_supported">false</bool>
     <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_bluetooth_hfp_inband_ringing_support">true</bool>
     <bool name="config_bluetooth_le_peripheral_mode_supported">true</bool>
-    <bool name="config_camera_sound_forced">false</bool>
     <bool name="config_carrier_volte_available">true</bool>
-    <bool name="config_cellBroadcastAppLinks">true</bool>
     <bool name="config_device_volte_available">true</bool>
     <bool name="config_device_vt_available">true</bool>
     <bool name="config_device_wfc_ims_available">true</bool>
-    <bool name="config_enableMultiUserUI">true</bool>
-    <bool name="config_hearing_aid_profile_supported">false</bool>
     <bool name="config_hotswapCapable">true</bool>
     <bool name="config_speed_up_audio_on_mt_calls">true</bool>
     <bool name="config_switch_phone_on_voice_reg_state_change">false</bool>
-    <bool name="config_unplugTurnsOnScreen">true</bool>
     <bool name="config_useDevInputEventForAudioJack">true</bool>
     <bool name="config_wifiDisplaySupportsProtectedBuffers">true</bool>
     <bool name="config_wifi_background_scan_support">true</bool>
@@ -129,16 +100,5 @@
     <bool name="config_wifi_dual_band_support">true</bool>
     <bool name="skip_restoring_network_selection">true</bool>
     <integer name="config_screenBrightnessDoze">17</integer>
-    <integer name="config_multiuserMaximumUsers">4</integer>
-    <string name="config_defaultAppPredictionService" />
-    <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
     <string name="config_mainBuiltInDisplayCutout">M 0,0 M 34.28571428571429,9.828571428571429 a 13.6,13.6 0 1,0 0,27.2 a 13.6,13.6 0 1,0 0,-27.2 Z @dp @left</string>
-    <string name="config_mobile_hotspot_provision_app_no_ui">com.samsung.provisioning.SILENT_PROVISIONING_CHECK</string>
-    <string name="config_mobile_hotspot_provision_response">com.samsung.provisioning.SILENT_PROVISIONING_CHECK_RESULT</string>
-    <string name="config_systemAudioIntelligence" />
-    <string name="config_systemUiIntelligence" />
-    <string name="config_mms_user_agent">Android-Mms/2.0</string>
-    <string name="config_mms_user_agent_profile_url">http://www.google.com/oha/rdf/ua-profile-kila.xml</string>
-    <string name="config_optionalPackageVerifierName">seemp.service</string>
-    <string name="config_persistentDataPackageName">com.google.android.gms</string>
 </resources>
