@@ -3,6 +3,7 @@ name: Overlay
 on:
   pull_request:
     branches: [pie]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -28,7 +29,7 @@ jobs:
         bash build.sh
 
     - name: Upload APK
-      uses: actions/upload-artifact@v3.0.0
+      uses: actions/upload-artifact@v4
       with:
         path: build/*.apk
         name: Overlays
