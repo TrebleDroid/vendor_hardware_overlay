@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="status_bar_camera_top_margin">8.0px</dimen>
     <dimen name="status_bar_height_portrait">73.0px</dimen>
-    <dimen name="status_bar_indicator_corner_padding">64.0px</dimen>
     <dimen name="rounded_corner_radius_top">95.0px</dimen>
     <dimen name="rounded_corner_radius_bottom">90.0px</dimen>
 </resources>
