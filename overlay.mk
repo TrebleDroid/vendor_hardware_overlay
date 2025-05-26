@@ -283,6 +283,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-m31-systemui \
 	treble-overlay-samsung-m31s \
 	treble-overlay-samsung-m31s-systemui \
+	treble-overlay-samsung-m34 \
+	treble-overlay-samsung-m34-systemui \
 	treble-overlay-samsung-m52 \
 	treble-overlay-samsung-n9q \
 	treble-overlay-samsung-o1s \
