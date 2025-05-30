@@ -23,7 +23,7 @@
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
     <bool name="config_automatic_brightness_available">true</bool>
 
-    <fraction name="config_autoBrightnessAdjustmentMaxGamma">300%</fraction>
+    <fraction name="config_autoBrightnessAdjustmentMaxGamma">150%</fraction>
 
     <integer name="config_defaultPeakRefreshRate">90</integer>
     <integer name="config_screenBrightnessDim">1</integer>
@@ -32,7 +32,7 @@
     <integer name="config_screenBrightnessSettingMaximum">255</integer>
     <integer name="config_screenBrightnessSettingDefault">67</integer>
     <integer name="config_autoBrightnessBrighteningLightDebounce">1000</integer>
-    <integer name="config_autoBrightnessDarkeningLightDebounce">1000</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
 
     <array name="config_autoBrightnessDisplayValuesNits">
         <item>4.5</item>
