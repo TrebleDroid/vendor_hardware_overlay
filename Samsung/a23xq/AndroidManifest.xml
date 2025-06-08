@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="me.phh.treble.overlay.samsung.a23xq" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <overlay android:isStatic="true" android:priority="673" android:requiredSystemPropertyName="ro.vendor.build.fingerprint" android:requiredSystemPropertyValue="+*samsung/a23xq*" android:targetPackage="android"/>
+</manifest>

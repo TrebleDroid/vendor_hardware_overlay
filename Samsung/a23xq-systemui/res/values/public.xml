@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="notch_status_bar_padding_top" id="0x7f020000" />
+    <public type="dimen" name="status_bar_padding_end" id="0x7f020001" />
+    <public type="dimen" name="status_bar_padding_start" id="0x7f020002" />
+    <public type="dimen" name="status_bar_icon_padding" id="0x7f020003" />
+    <public type="dimen" name="status_bar_padding_top" id="0x7f020004" />
+</resources>
