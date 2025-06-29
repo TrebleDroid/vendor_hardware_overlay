@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
 	QtiAudio \
 	TrebleApp \
 	treble-overlay-Hisense-HLTE556N \
+	treble-overlay-Minimal_Phone-MP01 \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-SystemUI-FalseLocks \
