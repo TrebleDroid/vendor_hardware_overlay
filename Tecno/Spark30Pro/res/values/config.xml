@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+        <bool name="config_useDevInputEventForAudioJack">true</bool>
+        <string name="config_mainBuiltInDisplayCutout">M -24,0 L -24,36 L 24,36 L 24,0 Z @dp</string>
+        <string-array name="config_defaultPinnerServiceFiles">
+                <item>/system/framework/arm/boot-mediatek-framework.vdex</item>
+                <item>/system/lib/libjavacrypto.so</item>
+                <item>/system/lib/libhidltransport.so</item>
+                <item>/system/framework/arm/boot-core-libart.oat</item>
+                <item>/system/framework/arm/boot-conscrypt.oat</item>
+                <item>/system/framework/arm/boot-core-libart.vdex</item>
+                <item>/system/framework/arm/boot-ext.vdex</item>
+                <item>/system/framework/arm/boot.vdex</item>
+                <item>/system/framework/arm/boot-framework.vdex</item>
+                <item>/system/lib64/android.hardware.graphics.common@1.2.so</item>
+                <item>/system/lib64/android.hardware.graphics.common@1.0.so</item>
+                <item>/system/lib64/android.hardware.graphics.common@1.1.so</item>
+                <item>/system/lib64/android.hardware.graphics.common@2.1.so</item>
+                <item>/system/lib64/libdmabufheap.so</item>
+                <item>/system/lib64/libion.so</item>
+        </string-array>
+        <integer-array name="config_ambientBrighteningThresholds">
+                <item>9000</item>
+                <item>4000</item>
+                <item>2000</item>
+                <item>1000</item>
+                <item>800</item>
+        </integer-array>
+        <integer-array name="config_ambientDarkeningThresholds">
+                <item>800</item>
+                <item>800</item>
+                <item>900</item>
+                <item>700</item>
+                <item>500</item>
+        </integer-array>
+        <integer-array name="config_ambientThresholdLevels">
+                <item>10</item>
+                <item>100</item>
+                <item>430</item>
+                <item>2000</item>
+        </integer-array>
+        <array name="config_autoBrightnessDisplayValuesNits">
+                <item>5</item>
+                <item>34.6545</item>
+                <item>62.5</item>
+                <item>90.6504</item>
+                <item>97.1545</item>
+                <item>100.1016</item>
+                <item>140.5303</item>
+                <item>150.5788</item>
+                <item>161.0192</item>
+                <item>175.2868</item>
+                <item>181.3028</item>
+                <item>192.7367</item>
+                <item>243.0856</item>
+                <item>291.0505</item>
+                <item>351.9145</item>
+                <item>500</item>
+                <item>550</item>
+        </array>
+        <integer-array name="config_autoBrightnessLevels">
+                <item>6</item>
+                <item>18</item>
+                <item>34</item>
+                <item>82</item>
+                <item>128</item>
+                <item>256</item>
+                <item>384</item>
+                <item>512</item>
+                <item>768</item>
+                <item>900</item>
+                <item>1536</item>
+                <item>2000</item>
+                <item>2560</item>
+                <item>3148</item>
+                <item>4475</item>
+                <item>5000</item>
+        </integer-array>
+        <integer-array name="config_screenBrightnessBacklight">
+                <item>1</item>
+                <item>15</item>
+                <item>30</item>
+                <item>45</item>
+                <item>60</item>
+                <item>75</item>
+                <item>90</item>
+                <item>105</item>
+                <item>120</item>
+                <item>135</item>
+                <item>150</item>
+                <item>165</item>
+                <item>180</item>
+                <item>195</item>
+                <item>210</item>
+                <item>225</item>
+                <item>240</item>
+                <item>255</item>
+        </integer-array>
+        <array name="config_screenBrightnessNits">
+                <item>2.9694</item>
+                <item>31.9561</item>
+                <item>64.5156</item>
+                <item>90.3381</item>
+                <item>119.3679</item>
+                <item>154.8711</item>
+                <item>190.7143</item>
+                <item>212.7924</item>
+                <item>237.6338</item>
+                <item>264.3849</item>
+                <item>292.8303</item>
+                <item>322.5649</item>
+                <item>356.2101</item>
+                <item>390.9088</item>
+                <item>427.0092</item>
+                <item>466.4044</item>
+                <item>505.9489</item>
+                <item>550</item>
+        </array>
+        <integer-array name="config_hbmBrightnessLcdBacklightValues">
+                <item>300</item>
+                <item>357</item>
+                <item>408</item>
+                <item>459</item>
+                <item>511</item>
+                <item>511</item>
+        </integer-array>
+        <integer-array name="config_hbmBrightnessLevels">
+                <item>20001</item>
+                <item>24000</item>
+                <item>28000</item>
+                <item>32000</item>
+                <item>36000</item>
+                <item>40000</item>
+        </integer-array>
+        <integer-array name="config_udfps_sensor_props" />
+        <string-array name="config_udfps_enroll_stage_thresholds">
+                <item>0.25</item>
+                <item>0.5</item>
+                <item>0.75</item>
+                <item>0.875</item>
+        </string-array>
+        <string-array name="config_udfps_touch_detection_options">
+                <item>0,0,1.0,0,1</item>
+                <item>1,1,1.0,0,1</item>
+                <item>1,1,1.0,.4,1</item>
+                <item>1,1,1.0,.15,15</item>
+        </string-array>
+</resources>
