@@ -29,7 +29,7 @@
 	<bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 	<bool name="config_dynamic_bind_ims">true</bool>
 	<bool name="config_hotswapCapable">true</bool>
-	<bool name="config_ims_package">true</bool>
+	<string name="config_ims_package">org.codeaurora.ims</string>
 	<string name="config_mainBuiltInDisplayCutout">M 0,0 H -32 V 104 H 32 V 0 H 0 Z</string>
 	<bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
 	<integer name="config_screenBrightnessDoze">17</integer>
