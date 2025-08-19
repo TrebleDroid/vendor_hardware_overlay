@@ -4,7 +4,7 @@
         android:versionName="1.0">
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="ro.product.device"
-                android:requiredSystemPropertyValue="wayne"
+                android:requiredSystemPropertyValue="wayney"
 		android:priority="44"
 		android:isStatic="true" />
 </manifest>
