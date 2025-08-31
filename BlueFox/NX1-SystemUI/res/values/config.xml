@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_padding_start">8.0dip</dimen>
+    <dimen name="status_bar_padding_end">0.0dip</dimen>
+    <dimen name="status_bar_header_height_keyguard">40.0dip</dimen>
+    <dimen name="status_bar_padding_top">14.0dip</dimen>
+
+    <bool name="config_enablePrivacyDot">true</bool>
+    <bool name="config_use_large_screen_shade_header">false</bool>
+    <bool name="config_enableShadowOnChildNotifications">true</bool>
+</resources>

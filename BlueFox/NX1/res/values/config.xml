@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_tether_bluetooth_regexs">
+        <item>bt-pan</item>
+        <item>bt-dun</item>
+    </string-array>
+
+    <bool name="config_hotswapCapable">true</bool>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">false</bool>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_dozeAfterScreenOff">true</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
+
+    <item type="dimen" name="config_screenBrightnessSettingDefaultFloat">0.4</item>
+    <item type="dimen" name="config_screenBrightnessSettingMaximumFloat">1.0</item>
+    <item type="dimen" name="config_screenBrightnessSettingMinimumFloat">0.0</item>
+
+    <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>8</item>
+        <item>64</item>
+        <item>98</item>
+        <item>104</item>
+        <item>110</item>
+        <item>116</item>
+        <item>122</item>
+        <item>128</item>
+        <item>134</item>
+        <item>182</item>
+        <item>255</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessLevels">
+        <item>128</item>
+        <item>256</item>
+        <item>384</item>
+        <item>512</item>
+        <item>640</item>
+        <item>768</item>
+        <item>896</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>4096</item>
+        <item>6144</item>
+        <item>8192</item>
+        <item>10240</item>
+        <item>12288</item>
+        <item>14336</item>
+        <item>16384</item>
+        <item>18432</item>
+    </integer-array>
+
+    <dimen name="status_bar_height_default">60.0dip</dimen>
+    <dimen name="status_bar_height">60.0dip</dimen>
+    <dimen name="status_bar_height_portrait">60.0dip</dimen>
+    <dimen name="quick_qs_offset_height">60.0dip</dimen>
+
+    <string name="config_mainBuiltInDisplayCutout">M 0,20 L -110,20 L -110,58 L 110,58 L 110,20 Z</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,20 L -110,20 L -110,58 L 110,58 L 110,20 Z</string>
+</resources>
