@@ -14,7 +14,7 @@ jobs:
 
     - name: Prepare the environment
       run: |
-        sudo apt -y install git-core git xmlstarlet
+        sudo apt -y install git-core git xmlstarlet aapt apktool
         sudo apt update
 
     - name: Run test scripts
