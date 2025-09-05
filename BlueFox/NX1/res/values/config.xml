@@ -54,10 +54,10 @@
         <item>18432</item>
     </integer-array>
 
-    <dimen name="status_bar_height_default">60.0dip</dimen>
-    <dimen name="status_bar_height">60.0dip</dimen>
-    <dimen name="status_bar_height_portrait">60.0dip</dimen>
-    <dimen name="quick_qs_offset_height">60.0dip</dimen>
+    <dimen name="status_bar_height_default">80.0dip</dimen>
+    <dimen name="status_bar_height">80.0dip</dimen>
+    <dimen name="status_bar_height_portrait">80.0dip</dimen>
+    <dimen name="quick_qs_offset_height">80.0dip</dimen>
 
     <string name="config_mainBuiltInDisplayCutout">M 0,20 L -110,20 L -110,58 L 110,58 L 110,20 Z</string>
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,20 L -110,20 L -110,58 L 110,58 L 110,20 Z</string>
