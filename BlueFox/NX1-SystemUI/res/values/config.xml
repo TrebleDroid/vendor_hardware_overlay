@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="status_bar_padding_start">8.0dip</dimen>
-    <dimen name="status_bar_padding_end">0.0dip</dimen>
+    <dimen name="status_bar_padding_start">15.0dip</dimen>
+    <dimen name="status_bar_padding_end">10.0dip</dimen>
     <dimen name="status_bar_header_height_keyguard">40.0dip</dimen>
     <dimen name="status_bar_padding_top">14.0dip</dimen>
 
