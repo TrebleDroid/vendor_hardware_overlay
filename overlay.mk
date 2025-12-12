@@ -296,6 +296,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-r0q-systemui \
 	treble-overlay-samsung-r0s \
 	treble-overlay-samsung-r0s-systemui \
+treble-overlay-samsung-r12s \
+	treble-overlay-samsung-r12s-systemui \
 	treble-overlay-samsung-r5q \
 	treble-overlay-samsung-r9q \
 	treble-overlay-samsung-r9s \
