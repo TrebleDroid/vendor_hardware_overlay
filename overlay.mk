@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-SystemUI-FalseLocks \
 	treble-overlay-Telephony-LTE \
 	treble-overlay-alldocube-xneo \
+	treble-overlay-ALLDOCUBE-iPlay_70_mini_Ultra \
 	treble-overlay-asus-rogphone \
 	treble-overlay-asus-zenfone5 \
 	treble-overlay-asus-zenfone5-10 \
