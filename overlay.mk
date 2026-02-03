@@ -59,6 +59,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-VTR \
 	treble-overlay-huawei-WAS \
 	treble-overlay-hw-ims \
+	treble-overlay-infinix-hot60proplus \
+	treble-overlay-infinix-hot60proplus-systemui \
 	treble-overlay-infinix-note10 \
 	treble-overlay-infinix-note10pro \
 	treble-overlay-infinix-note12v2023 \
@@ -171,6 +173,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-nord-systemui \
 	treble-overlay-oneplus-nord4 \
 	treble-overlay-oneplus-nord4-systemui \
+	treble-overlay-oneplus-nord5 \
+	treble-overlay-oneplus-nord5-systemui \
 	treble-overlay-oneplus-nordce \
 	treble-overlay-oneplus-nordce-systemui \
 	treble-overlay-oneplus-op10pro \
