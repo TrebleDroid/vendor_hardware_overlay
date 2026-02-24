@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-blackview-bv9500plus \
 	treble-overlay-blackview-shark8 \
 	treble-overlay-blackview-shark8-systemui \
+	treble-overlay-bluefox-bf001 \
 	treble-overlay-bq-jeice \
 	treble-overlay-caf-ims \
 	treble-overlay-devinputjack \

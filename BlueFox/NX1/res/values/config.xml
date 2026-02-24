@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_mainBuiltInDisplayCutout">M 0,20 L -100,20 L -100,78 L 100,78 L 100,20 Z</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,20 L -100,20 L -100,78 L 100,78 L 100,20 Z</string>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <dimen name="status_bar_height">60dip</dimen>
+    <dimen name="status_bar_height_default">60dip</dimen>
+    <dimen name="status_bar_height_portrait">60dip</dimen>
+    <dimen name="status_bar_height_landscape">60dip</dimen>
+    <dimen name="quick_qs_offset_height">48dip</dimen>
+</resources>

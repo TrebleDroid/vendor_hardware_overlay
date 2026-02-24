@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="me.phh.treble.overlay.bluefox.bf001"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <overlay android:targetPackage="android"
+        	android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
+        	android:requiredSystemPropertyValue="+*BLUEFOX/((BF001.*)|(BLUEFOX_NX1.*))"
+		android:priority="820"
+		android:isStatic="true" />
+</manifest>
