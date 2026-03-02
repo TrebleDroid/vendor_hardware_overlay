@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="me.phh.treble.overlay.Tecno.Pova7"
+        android:versionCode="1"
+        android:versionName="1.0">
+        <overlay android:targetPackage="android"
+        	android:requiredSystemPropertyName="ro.product.device"
+        	android:requiredSystemPropertyValue="TECNO-LJ6"
+		android:priority="712"
+		android:isStatic="true" />
+</manifest>
