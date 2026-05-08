@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- bools files -->
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+
+    <!-- integer files -->
+    <integer name="config_screenBrightnessDoze">6</integer>
+    <integer name="config_screenBrightnessSettingMinimum">1</integer>
+    <integer name="config_defaultRefreshRate">60</integer>
+    <integer name="config_defaultPeakRefreshRate">90</integer>
+    <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">2000</integer>
+
+
+    <!-- integer-array files-->
+    <integer-array name="config_autoBrightnessLevels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>15</item>
+        <item>20</item>
+        <item>33</item>
+        <item>55</item>
+        <item>90</item>
+        <item>148</item>
+        <item>245</item>
+        <item>403</item>
+        <item>665</item>
+        <item>1097</item>
+        <item>1808</item>
+        <item>3000</item>
+        <item>6000</item>
+        <item>9000</item>
+        <item>10000</item>
+        <item>14000</item>
+        <item>20000</item>
+    </integer-array>
+
+    <array name="config_autoBrightnessDisplayValuesNits">
+      <item>5.139055</item>
+      <item>9.962018965</item>
+      <item>18.34822964</item>
+      <item>21.55068128</item>
+      <item>24.0167788</item>
+      <item>32.5</item>
+      <item>46</item>
+      <item>53.26923077</item>
+      <item>54.61538462</item>
+      <item>58.11538462</item>
+      <item>62.1394</item>
+      <item>67.13133333</item>
+      <item>79.67614115</item>
+      <item>98.04727274</item>
+      <item>125.1221991</item>
+      <item>161.6875093</item>
+      <item>208.4885553</item>
+      <item>264.8221315</item>
+      <item>328.5869521</item>
+      <item>627.4315413</item>
+      <item>826.8584866</item>
+      <item>867.0494638</item>
+      <item>901.4496943</item>
+      <item>1000.0</item>
+    </array>
+
+    <integer-array name="config_ambientThresholdLevels">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+    </integer-array>
+
+    <integer-array name="config_ambientBrighteningThresholds">
+        <item>5186</item>
+        <item>4333</item>
+        <item>3666</item>
+        <item>2999</item>
+        <item>2759</item>
+        <item>2519</item>
+        <item>2279</item>
+        <item>2039</item>
+        <item>1799</item>
+        <item>799</item>
+        <item>527</item>
+        <item>499</item>
+        <item>470</item>
+        <item>517</item>
+        <item>565</item>
+        <item>612</item>
+        <item>660</item>
+        <item>708</item>
+        <item>742</item>
+        <item>636</item>
+        <item>582</item>
+        <item>549</item>
+        <item>369</item>
+        <item>294</item>
+        <item>269</item>
+        <item>220</item>
+        <item>220</item>
+    </integer-array>
+
+    <integer-array name="config_ambientDarkeningThresholds">
+        <item>525</item>
+        <item>683</item>
+        <item>666</item>
+        <item>650</item>
+        <item>640</item>
+        <item>630</item>
+        <item>620</item>
+        <item>610</item>
+        <item>600</item>
+        <item>500</item>
+        <item>500</item>
+        <item>440</item>
+        <item>385</item>
+        <item>382</item>
+        <item>379</item>
+        <item>376</item>
+        <item>373</item>
+        <item>371</item>
+        <item>367</item>
+        <item>387</item>
+        <item>397</item>
+        <item>403</item>
+        <item>380</item>
+        <item>345</item>
+        <item>333</item>
+        <item>283</item>
+        <item>283</item>
+    </integer-array>
+    <array name="config_screenBrightnessBacklight">
+        <item>1</item>
+        <item>255</item>
+    </array>
+    <array name="config_screenBrightnessNits">
+        <item>4.5</item>
+        <item>900</item>
+    </array>
+    
+    <!-- fraction files -->
+    <fraction name="config_autoBrightnessAdjustmentMaxGamma">150%</fraction>
+
+    <!-- strings files -->
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -37 V 93 H 37 V 0 H 0 Z</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -37 V 93 H 37 V 0 H 0 Z</string>
+    <string name="config_ims_package">com.mediatek.ims</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Defines statusbar padding -->
+    <dimen name="status_bar_padding_top">7.5dp</dimen>
+    <dimen name="status_bar_padding_start">11.5dp</dimen>
+    <dimen name="status_bar_padding_end">5.0dp</dimen>
+
+    <!-- Power button Location-->
+    <dimen name="physical_power_button_center_screen_location_y">1025px</dimen>
+
+    <!-- Fingerprint sensor location-->
+    <dimen name="physical_fingerprint_sensor_center_screen_location_y">1025px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_x">1080px</dimen>
+
+    <!-- Volume buttons location -->
+    <dimen name="physical_volume_up_button_center_screen_location_y">950px</dimen>
+    <dimen name="physical_volume_down_button_center_screen_location_y">1150px</dimen>
+</resources>
