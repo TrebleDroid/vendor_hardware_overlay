@@ -327,6 +327,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tecno-camon18p \
 	treble-overlay-tecno-camon20pro4g \
 	treble-overlay-tecno-camon20pro4g-systemui \
+	treble-overlay-tecno-camon50ultra \
+	treble-overlay-tecno-camon50ultra-systemui \
 	treble-overlay-tecno-pova4 \
 	treble-overlay-tecno-pova4-systemui \
 	treble-overlay-tecno-pova4pro \
@@ -438,6 +440,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote115g-systemui \
 	treble-overlay-xiaomi-redminote125g \
 	treble-overlay-xiaomi-redminote12pro5g \
+	treble-overlay-xiaomi-redminote135g \
+	treble-overlay-xiaomi-redminote135g-systemui \
 	treble-overlay-xiaomi-redminote13pro4g \
 	treble-overlay-xiaomi-redminote13pro4g-systemui \
 	treble-overlay-xiaomi-redminote5 \
