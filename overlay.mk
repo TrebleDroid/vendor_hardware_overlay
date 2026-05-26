@@ -136,6 +136,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-tundra \
 	treble-overlay-moto-tundra-systemui \
 	treble-overlay-mtk-ims \
+	treble-overlay-multilaser-m84gso0v \
 	treble-overlay-nokia-b2n-7plus \
 	treble-overlay-nokia-ctl-7-1 \
 	treble-overlay-nokia-drg-6.1plus-x6 \
