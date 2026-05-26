@@ -3,8 +3,8 @@
         android:versionCode="1"
         android:versionName="1.0">
         <overlay android:targetPackage="android"
-                android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
-                android:requiredSystemPropertyValue="+*iaomi/wayne*"
+                android:requiredSystemPropertyName="ro.product.device"
+                android:requiredSystemPropertyValue="wayney"
 		android:priority="44"
 		android:isStatic="true" />
 </manifest>
