@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rounded_corner_content_padding">52.0px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_y">1020px</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">1020px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_x">1080px</dimen>
+</resources>
