@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ignoring apks: ElderlyNavigationBarOverlay-apk, GestureLineOverlay-apk, AospFrameworkResOverlay-apk -->
+<resources>
+	<!-- config_autoBrightnessLcdBacklightValues value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<integer-array name="config_autoBrightnessLcdBacklightValues">
+		<item>10</item>
+		<item>20</item>
+		<item>40</item>
+		<item>70</item>
+		<item>110</item>
+		<item>160</item>
+		<item>200</item>
+		<item>255</item>
+	</integer-array>
+	<!-- config_autoBrightnessLevels value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<integer-array name="config_autoBrightnessLevels">
+		<item>10</item>
+		<item>30</item>
+		<item>60</item>
+		<item>100</item>
+		<item>150</item>
+		<item>210</item>
+		<item>255</item>
+	</integer-array>
+	<!-- config_automatic_brightness_available value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_automatic_brightness_available">true</bool>
+	<!-- config_bluetooth_hfp_inband_ringing_support value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_bluetooth_hfp_inband_ringing_support">true</bool>
+	<!-- config_bluetooth_le_peripheral_mode_supported value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_bluetooth_le_peripheral_mode_supported">true</bool>
+	<!-- config_carrier_volte_available value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_carrier_volte_available">true</bool>
+	<!-- config_device_volte_available value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_device_volte_available">true</bool>
+	<!-- config_device_vt_available value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_device_vt_available">true</bool>
+	<!-- config_device_wfc_ims_available value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_device_wfc_ims_available">true</bool>
+	<!-- config_dynamic_bind_ims forced to true -->
+	<bool name="config_dynamic_bind_ims">true</bool>
+	<!-- config_dozeAlwaysOnDisplayAvailable value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+	<!-- config_ims_package forced to the value of config_ims_mmtel_package -->
+	<string name="config_ims_package">org.codeaurora.ims</string>
+	<!-- config_hotswapCapable value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_hotswapCapable">true</bool>
+	<!-- config_mainBuiltInDisplayCutout value taken from:
+		product_a/overlay/DevicesAndroidOverlay-apk/res/values/strings.xml -->
+	<string name="config_mainBuiltInDisplayCutout">M 0,0 H -32 V 104 H 32 V 0 H 0 Z</string>
+	<!-- config_powerDecoupleInteractiveModeFromDisplay value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_powerDecoupleInteractiveModeFromDisplay">false</bool>
+	<!-- config_screenBrightnessDoze value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/integers.xml -->
+	<integer name="config_screenBrightnessDoze">17</integer>
+	<!-- config_setColorTransformAccelerated value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_setColorTransformAccelerated">true</bool>
+	<!-- config_showNavigationBar value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_showNavigationBar">true</bool>
+	<!-- config_speed_up_audio_on_mt_calls value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_speed_up_audio_on_mt_calls">true</bool>
+	<!-- config_supportAudioSourceUnprocessed value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_supportAudioSourceUnprocessed">true</bool>
+	<!-- config_switch_phone_on_voice_reg_state_change value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_switch_phone_on_voice_reg_state_change">false</bool>
+	<!-- config_tether_bluetooth_regexs value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<string-array name="config_tether_bluetooth_regexs">
+		<item>bnep\\d</item>
+		<item>bt-pan</item>
+	</string-array>
+	<!-- config_tether_upstream_types value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<integer-array name="config_tether_upstream_types">
+		<item>0</item>
+		<item>1</item>
+		<item>5</item>
+		<item>7</item>
+	</integer-array>
+	<!-- config_tether_usb_regexs value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<string-array name="config_tether_usb_regexs">
+		<item>usb\\d</item>
+		<item>rndis\\d</item>
+	</string-array>
+	<!-- config_tether_wifi_regexs value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<string-array name="config_tether_wifi_regexs">
+		<item>softap0</item>
+		<item>wlan0</item>
+	</string-array>
+	<!-- config_wifiDisplaySupportsProtectedBuffers value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_wifiDisplaySupportsProtectedBuffers">true</bool>
+	<!-- config_wifi_background_scan_support value taken from:
+		product_a/overlay/WifiResCommon_Sys-apk/res/values/bools.xml
+		product_a/overlay/WifiResCommonMainline_Sys-apk/res/values/bools.xml
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_wifi_background_scan_support">true</bool>
+	<!-- config_wifi_batched_scan_supported value taken from:
+		product_a/overlay/WifiResCommon_Sys-apk/res/values/bools.xml
+		product_a/overlay/WifiResCommonMainline_Sys-apk/res/values/bools.xml
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_wifi_batched_scan_supported">true</bool>
+	<!-- config_wifi_dual_band_support value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_wifi_dual_band_support">true</bool>
+	<!-- skip_restoring_network_selection value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="skip_restoring_network_selection">true</bool>
+	<!-- status_bar_height_portrait value taken from:
+		product_a/overlay/DevicesAndroidOverlay-apk/res/values/dimens.xml -->
+	<dimen name="status_bar_height_portrait">104.0px</dimen>
+	<!-- status_bar_height_default value taken from:
+		product_a/overlay/DevicesAndroidOverlay-apk/res/values/dimens.xml -->
+	<dimen name="status_bar_height_default">104.0px</dimen>
+	<!-- config_dozeAfterScreenOff value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_dozeAfterScreenOff">true</bool>
+	<!-- rounded_corner_radius value taken from:
+		product_a/overlay/DevicesAndroidOverlay-apk/res/values/dimens.xml -->
+	<dimen name="rounded_corner_radius">110.0px</dimen>
+	<!-- rounded_corner_radius_top value taken from:
+		product_a/overlay/DevicesAndroidOverlay-apk/res/values/dimens.xml -->
+	<dimen name="rounded_corner_radius_top">110.0px</dimen>
+	<!-- rounded_corner_radius_bottom value taken from:
+		product_a/overlay/DevicesAndroidOverlay-apk/res/values/dimens.xml -->
+	<dimen name="rounded_corner_radius_bottom">110.0px</dimen>
+	<!-- config_enableFusedLocationOverlay value taken from:
+		product_a/overlay/GmsConfigOverlayCommon-apk/res/values/bools.xml -->
+	<bool name="config_enableFusedLocationOverlay">true</bool>
+	<!-- config_enableNetworkLocationOverlay value taken from:
+		product_a/overlay/GmsConfigOverlayCommon-apk/res/values/bools.xml -->
+	<bool name="config_enableNetworkLocationOverlay">true</bool>
+	<!-- config_ephemeralResolverPackage value taken from:
+		product_a/overlay/GmsConfigOverlayCommon-apk/res/values/arrays.xml -->
+	<string-array name="config_ephemeralResolverPackage">
+		<item>com.google.android.gms</item>
+	</string-array>
+	<!-- config_mobile_tcp_buffers value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<string-array name="config_mobile_tcp_buffers">
+		<item>5gnr:2097152,6291456,16777216,512000,2097152,8388608</item>
+		<item>lte:2097152,4194304,8388608,262144,524288,1048576</item>
+		<item>lte_ca:4096,6291456,12582912,4096,1048576,4194304</item>
+		<item>umts:4094,87380,1220608,4096,16384,1220608</item>
+		<item>hspa:4094,87380,1220608,4096,16384,1220608</item>
+		<item>hsupa:4094,87380,1220608,4096,16384,1220608</item>
+		<item>hsdpa:4094,87380,1220608,4096,16384,1220608</item>
+		<item>hspap:4094,87380,1220608,4096,16384,1220608</item>
+		<item>edge:4093,26280,35040,4096,16384,35040</item>
+		<item>gprs:4092,8760,11680,4096,8760,11680</item>
+		<item>evdo:4094,87380,524288,4096,16384,262144</item>
+	</string-array>
+	<!-- networkAttributes value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<string-array name="networkAttributes">
+		<item>wifi,1,1,1,-1,true</item>
+		<item>mobile,0,0,0,-1,true</item>
+		<item>mobile_mms,2,0,4,60000,true</item>
+		<item>mobile_supl,3,0,2,60000,true</item>
+		<item>mobile_dun,4,0,2,60000,true</item>
+		<item>mobile_hipri,5,0,3,60000,true</item>
+		<item>mobile_fota,10,0,2,60000,true</item>
+		<item>mobile_ims,11,0,2,60000,true</item>
+		<item>mobile_cbs,12,0,2,60000,true</item>
+		<item>bluetooth,7,7,2,-1,true</item>
+		<item>mobile_emergency,15,0,5,-1,true</item>
+		<item>ethernet,9,9,9,-1,true</item>
+	</string-array>
+	<!-- radioAttributes value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<string-array name="radioAttributes">
+		<item>1,1</item>
+		<item>0,1</item>
+		<item>7,1</item>
+	</string-array>
+	<!-- config_wifi_connected_mac_randomization_supported value taken from:
+		product_a/overlay/WifiResCommon_Sys-apk/res/values/bools.xml
+		product_a/overlay/AospWifiResOverlay-apk/res/values/bools.xml
+		product_a/overlay/WifiResCommonMainline_Sys-apk/res/values/bools.xml
+		product_a/overlay/AospWifiResOverlay_mainline-apk/res/values/bools.xml
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_wifi_connected_mac_randomization_supported">true</bool>
+	<!-- config_wifi_p2p_mac_randomization_supported value taken from:
+		product_a/overlay/WifiResCommon_Sys-apk/res/values/bools.xml
+		product_a/overlay/WifiResCommonMainline_Sys-apk/res/values/bools.xml
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/bools.xml -->
+	<bool name="config_wifi_p2p_mac_randomization_supported">true</bool>
+	<!-- config_availableColorModes value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/arrays.xml -->
+	<integer-array name="config_availableColorModes">
+		<item>0</item>
+		<item>1</item>
+		<item>3</item>
+		<item>256</item>
+		<item>257</item>
+		<item>258</item>
+		<item>259</item>
+		<item>260</item>
+		<item>261</item>
+		<item>262</item>
+		<item>263</item>
+		<item>264</item>
+		<item>265</item>
+		<item>266</item>
+		<item>267</item>
+		<item>268</item>
+		<item>269</item>
+		<item>270</item>
+		<item>271</item>
+		<item>272</item>
+		<item>273</item>
+		<item>274</item>
+		<item>275</item>
+		<item>276</item>
+		<item>277</item>
+		<item>278</item>
+		<item>279</item>
+		<item>280</item>
+		<item>281</item>
+		<item>282</item>
+		<item>283</item>
+		<item>284</item>
+		<item>285</item>
+		<item>286</item>
+		<item>287</item>
+		<item>288</item>
+	</integer-array>
+	<!-- config_defaultRefreshRate value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/integers.xml -->
+	<integer name="config_defaultRefreshRate">0</integer>
+	<!-- config_defaultPeakRefreshRate value taken from:
+		product_a/overlay/FrameworksResCommon_Sys-apk/res/values/integers.xml -->
+	<integer name="config_defaultPeakRefreshRate">240</integer>
+</resources>
