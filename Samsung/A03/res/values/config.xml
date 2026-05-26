@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+        <item>1:8:4095</item>
+    </string-array>
+    <bool name="config_supportAudioSourceUnprocessed">false</bool>
+</resources>
