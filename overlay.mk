@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
 	QtiAudio \
 	TrebleApp \
 	treble-overlay-Hisense-HLTE556N \
+	treble-overlay-Minimal_Phone-MP01 \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-SystemUI-FalseLocks \
@@ -16,6 +17,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-asus-zenfonelivel1za550kl \
 	treble-overlay-asus-zenfonemaxm2 \
 	treble-overlay-asus-zenfonemaxshot \
+	treble-overlay-Bigme-HiBreak_EEA \
 	treble-overlay-blackview-bv6900 \
 	treble-overlay-blackview-bv9500plus \
 	treble-overlay-blackview-shark8 \
