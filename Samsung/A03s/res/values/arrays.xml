@@ -22,16 +22,15 @@
         <item>366.6</item>
     </array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>10</item>
-        <item>27</item>
-        <item>46</item>
-        <item>49</item>
-        <item>55</item>
-        <item>67</item>
-        <item>105</item>
-        <item>170</item>
-        <item>225</item>
-        <item>249</item>
+        <item>5</item>
+        <item>26</item>
+        <item>47</item>
+        <item>57</item>
+        <item>61</item>
+        <item>95</item>
+        <item>146</item>
+        <item>186</item>
+        <item>235</item>
         <item>255</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
@@ -44,7 +43,6 @@
         <item>2000</item>
         <item>3000</item>
         <item>5000</item>
-        <item>10000</item>
     </integer-array>
     <integer-array name="config_longPressVibePattern">
         <item>0</item>
