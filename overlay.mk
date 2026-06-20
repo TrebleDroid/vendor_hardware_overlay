@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
 	QtiAudio \
 	TrebleApp \
 	treble-overlay-Hisense-HLTE556N \
+	treble-overlay-NUU-N5004LA \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
 	treble-overlay-SystemUI-FalseLocks \
