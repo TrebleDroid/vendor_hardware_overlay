@@ -4,7 +4,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := treble-overlay-alldocube-t1012
+LOCAL_PACKAGE_NAME := treble-overlay-alldocube-iplay30
 
 LOCAL_MODULE_PATH := $(TARGET_OUT_PRODUCT)/overlay
 
