@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="overlay_chooser_edge_margin_normal">@android:dimen/chooser_edge_margin_normal</item>
+    <item type="dimen" name="overlay_chooser_view_spacing">@android:dimen/chooser_view_spacing</item>
+    <item type="dimen" name="overlay_chooser_width">@android:dimen/chooser_width</item>
+    <item type="dimen" name="overlay_config_bottomDialogCornerRadius">@android:dimen/config_bottomDialogCornerRadius</item>
+    <item type="dimen" name="overlay_config_restrictedIconSize">@android:dimen/config_restrictedIconSize</item>
+    <item type="dimen" name="overlay_conversation_avatar_size">@android:dimen/conversation_avatar_size</item>
+    <item type="dimen" name="overlay_conversation_badge_protrusion">@android:dimen/conversation_badge_protrusion</item>
+    <item type="dimen" name="overlay_conversation_content_start">@android:dimen/conversation_content_start</item>
+    <item type="dimen" name="overlay_conversation_icon_size_badged">@android:dimen/conversation_image_start_margin</item>
+    <item type="dimen" name="overlay_navigation_bar_frame_height">@android:dimen/navigation_bar_frame_height_landscape</item>
+    <item type="dimen" name="overlay_navigation_bar_height">@android:dimen/navigation_bar_height_car_mode</item>
+    <item type="dimen" name="overlay_navigation_bar_width">@android:dimen/navigation_bar_width_car_mode</item>
+    <item type="dimen" name="overlay_notification_content_margin_end">@android:dimen/notification_content_margin_start</item>
+    <item type="dimen" name="overlay_notification_content_margin_start">@android:dimen/notification_content_margin_top</item>
+    <item type="dimen" name="overlay_notification_header_icon_size_ambient">@android:dimen/notification_header_padding_top</item>
+    <item type="dimen" name="overlay_notification_header_padding_top">@android:dimen/notification_header_shrink_min_width</item>
+    <item type="dimen" name="overlay_notification_headerless_min_height">@android:dimen/notification_icon_circle_size</item>
+    <item type="dimen" name="overlay_notification_min_height">@android:dimen/notification_progress_bar_height</item>
+    <item type="dimen" name="overlay_notification_text_size">@android:dimen/notification_top_pad_large_text_narrow</item>
+    <item type="dimen" name="overlay_quick_qs_offset_height">@android:dimen/resolver_icon_size</item>
+    <item type="dimen" name="overlay_rounded_corner_content_padding">@android:dimen/screen_percentage_15</item>
+    <item type="dimen" name="overlay_status_bar_height">@android:dimen/subtitle_shadow_radius</item>
+    <item type="dimen" name="overlay_status_bar_height_portrait">@android:dimen/taskbar_frame_height</item>
+    <item type="dimen" name="overlay_status_bar_icon_size">@android:dimen/text_edit_floating_toolbar_elevation</item>
+    <item type="dimen" name="overlay_status_bar_system_icon_size">@android:dimen/text_handle_min_size</item>
+    <item type="dimen" name="overlay_text_size_body_2_material">@android:dimen/text_size_menu_header_material</item>
+    <item type="dimen" name="overlay_toast_elevation">@android:dimen/tooltip_y_offset_non_touch</item>
+    <item type="dimen" name="overlay_toast_width">@android:dimen/user_icon_size</item>
+</resources>
