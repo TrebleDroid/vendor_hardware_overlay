@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="none">0</item>
+    <item name="ambient.on">0.1</item>
+    <item name="screen.on">60.0</item>
+    <item name="screen.full">300.0</item>
+    <item name="bluetooth.active">10.0</item>
+    <item name="bluetooth.on">0.8</item>
+    <item name="wifi.on">0.1</item>
+    <item name="wifi.active">250.0</item>
+    <item name="wifi.scan">40.0</item>
+    <item name="audio">20.0</item>
+    <item name="video">80.0</item>
+    <item name="dsp.audio">20.0</item>
+    <item name="dsp.video">80.0</item>
+    <item name="camera.flashlight">300.0</item>
+    <item name="camera.avg">900.0</item>
+    <item name="gps.on">30.0</item>
+    <item name="radio.active">15.0</item>
+    <item name="radio.scanning">25.0</item>
+    <array name="radio.on">
+        <value>3.0</value>
+        <value>3.0</value>
+    </array>
+    <array name="cpu.clusters.cores">
+        <value>4</value>
+        <value>4</value>
+    </array>
+<!--
+    Cluster 0: Big Cores Performance (2.3 GHz Max)
+    Sysfs source (0-3): /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_frequencies
+-->
+    <array name="cpu.speeds.cluster0">
+        <value>900000</value>
+        <value>979000</value>
+        <value>1085000</value>
+        <value>1218000</value>
+        <value>1351000</value>
+        <value>1484000</value>
+        <value>1617000</value>
+        <value>1750000</value>
+        <value>1814000</value>
+        <value>1879000</value>
+        <value>1944000</value>
+        <value>2009000</value>
+        <value>2074000</value>
+        <value>2139000</value>
+        <value>2215000</value>
+        <value>2301000</value>
+    </array>
+    <array name="cpu.active.cluster0">
+        <value>25.0</value>
+        <value>28.0</value>
+        <value>33.0</value>
+        <value>40.0</value>
+        <value>48.0</value>
+        <value>56.0</value>
+        <value>65.0</value>
+        <value>73.0</value>
+        <value>78.0</value>
+        <value>83.0</value>
+        <value>88.0</value>
+        <value>94.0</value>
+        <value>100.0</value>
+        <value>105.0</value>
+        <value>110.0</value>
+        <value>118.0</value>
+    </array>
+<!--
+    Cluster 1: Little Cores Efficiency (1.8 GHz Max)
+    Sysfs source (4-7): /sys/devices/system/cpu/cpu4/cpufreq/scaling_available_frequencies
+-->
+    <array name="cpu.speeds.cluster1">
+        <value>400000</value>
+        <value>501000</value>
+        <value>542000</value>
+        <value>643000</value>
+        <value>745000</value>
+        <value>846000</value>
+        <value>948000</value>
+        <value>1050000</value>
+        <value>1138000</value>
+        <value>1226000</value>
+        <value>1314000</value>
+        <value>1402000</value>
+        <value>1491000</value>
+        <value>1579000</value>
+        <value>1682000</value>
+        <value>1800000</value>
+    </array>
+    <array name="cpu.active.cluster1">
+        <value>5.0</value>
+        <value>7.0</value>
+        <value>9.0</value>
+        <value>12.0</value>
+        <value>15.0</value>
+        <value>19.0</value>
+        <value>23.0</value>
+        <value>27.0</value>
+        <value>31.0</value>
+        <value>35.0</value>
+        <value>39.0</value>
+        <value>43.0</value>
+        <value>47.0</value>
+        <value>51.0</value>
+        <value>55.0</value>
+        <value>60.0</value>
+    </array>
+    <item name="cpu.idle">3.0</item>
+    <item name="cpu.suspend">5.0</item>
+    <array name="memory.bandwidths">
+        <value>22.7</value>
+    </array>
+    <item name="battery.capacity">5000</item>
+    <item name="wifi.controller.idle">0</item>
+    <item name="wifi.controller.rx">0</item>
+    <item name="wifi.controller.tx">0</item>
+    <array name="wifi.controller.tx_levels" />
+    <item name="wifi.controller.voltage">0</item>
+    <array name="wifi.batchedscan">
+        <value>.0002</value>
+        <value>.002</value>
+        <value>.02</value>
+        <value>.2</value>
+        <value>2</value>
+    </array>
+    <item name="modem.controller.sleep">0</item>
+    <item name="modem.controller.idle">0</item>
+    <item name="modem.controller.rx">0</item>
+    <array name="modem.controller.tx">
+        <value>0</value>
+        <value>0</value>
+        <value>0</value>
+        <value>0</value>
+        <value>0</value>
+    </array>
+    <item name="modem.controller.voltage">0</item>
+    <array name="gps.signalqualitybased">
+        <value>0</value>
+        <value>0</value>
+    </array>
+    <item name="gps.voltage">0</item>
+</device>
