@@ -319,6 +319,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-sony-pdx215 \
 	treble-overlay-sony-pdx223 \
 	treble-overlay-sprd-ims \
+	treble-overlay-tcl-5102l \
+	treble-overlay-tcl-5102l-systemui \
+	treble-overlay-tcl-a509dl \
+	treble-overlay-tcl-a509dl-systemui \
 	treble-overlay-teclast-m30 \
 	treble-overlay-teclast-p20hd \
 	treble-overlay-teclast-t30 \

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height_portrait">74px</dimen>
+    <string name="config_mainBuiltInDisplayCutout">M -58,0 L -58,74 L 58,74 L 58,0 Z</string>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <integer name="config_nightDisplayColorTemperatureDefault">4548</integer>
+    <integer name="config_nightDisplayColorTemperatureMin">2596</integer>
+    <integer name="config_nightDisplayColorTemperatureMax">6500</integer>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="config_unplugTurnsOnScreen">true</bool>
+    <integer name="config_lowBatteryWarningLevel">15</integer>
+    <integer name="config_criticalBatteryWarningLevel">5</integer>
+</resources>
