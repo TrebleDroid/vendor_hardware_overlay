@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <array name="config_autoBrightnessDisplayValuesNits">
+        <float>33.07</float>
+        <float>49.81</float>
+        <float>65.02</float>
+        <float>80.2</float>
+        <float>104.3</float>
+        <float>150.3</float>
+        <float>172.3</float>
+        <float>172.3</float>
+        <float>195.4</float>
+        <float>195.4</float>
+        <float>216.9</float>
+        <integer>260</integer>
+        <float>288.5</float>
+        <integer>302</integer>
+        <float>308.7</float>
+        <float>315.4</float>
+        <integer>330</integer>
+        <float>363.6</float>
+        <float>366.6</float>
+    </array>
+    <integer-array name="config_autoBrightnessLevels">
+        <item>16</item>
+        <item>32</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>260</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1200</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2800</item>
+        <item>3000</item>
+    </integer-array>
+    <string-array name="config_biometric_sensors">
+        <item>0:2:15</item>
+        <item>1:8:4095</item>
+    </string-array>
+    <integer-array name="config_longPressVibePattern">
+        <item>0</item>
+        <item>30</item>
+    </integer-array>
+    <integer-array name="config_screenBrightnessBacklight">
+        <item>1</item>
+        <item>10</item>
+        <item>15</item>
+        <item>45</item>
+        <item>60</item>
+        <item>75</item>
+        <item>90</item>
+        <item>105</item>
+        <item>120</item>
+        <item>135</item>
+        <item>150</item>
+        <item>165</item>
+        <item>180</item>
+        <item>195</item>
+        <item>210</item>
+        <item>225</item>
+        <item>240</item>
+        <item>255</item>
+    </integer-array>
+    <array name="config_screenBrightnessNits">
+        <float>0.0125</float>
+        <float>10.39</float>
+        <float>33.07</float>
+        <float>57.41</float>
+        <float>80.02</float>
+        <float>104.3</float>
+        <float>126.7</float>
+        <float>150.3</float>
+        <float>172.3</float>
+        <float>195.4</float>
+        <float>216.9</float>
+        <float>239.6</float>
+        <integer>260</integer>
+        <float>281.9</float>
+        <integer>302</integer>
+        <float>323.3</float>
+        <float>343.1</float>
+        <float>363.6</float>
+    </array>
+    <string-array name="config_tether_bluetooth_regexs">
+        <item>bt-pan</item>
+    </string-array>
+    <string-array name="config_tether_usb_regexs">
+        <item>rndis0</item>
+        <item>usb0</item>
+    </string-array>
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_device_volte_available">true</bool>
+    <bool name="config_device_vt_available">true</bool>
+    <bool name="config_device_wfc_ims_available">true</bool>
+    <bool name="config_dozeAfterScreenOffByDefault">true</bool>
+    <bool name="config_dozePulsePickup">true</bool>
+    <bool name="config_setColorTransformAccelerated">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_suspendWhenScreenOffDueToProximity">true</bool>
+    <bool name="config_switch_phone_on_voice_reg_state_change">false</bool>
+    <bool name="config_useDevInputEventForAudioJack">true</bool>
+    <bool name="skip_restoring_network_selection">true</bool>
+    <float name="config_screenBrightnessSettingMaximumFloat">1.0</float>
+    <float name="config_screenBrightnessSettingMinimumFloat">0.0</float>
+    <dimen name="rounded_corner_radius">68.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom">68.0px</dimen>
+    <dimen name="rounded_corner_radius_top">68.0px</dimen>
+    <dimen name="status_bar_height">57.0px</dimen>
+    <dimen name="status_bar_height_landscape">57.0px</dimen>
+    <dimen name="status_bar_height_portrait">57.0px</dimen>
+    <integer name="config_autoBrightnessBrighteningLightDebounce">2000</integer>
+    <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
+    <integer name="config_brightness_ramp_rate_fast">600</integer>
+    <integer name="config_defaultPeakRefreshRate">90</integer>
+    <integer name="config_defaultRefreshRate">90</integer>
+    <integer name="config_overrideHasPermanentMenuKey">2</integer>
+    <integer name="config_screenBrightnessSettingMinimum">6</integer>
+    <string name="config_mainBuiltInDisplayCutout">M-15,0 C-15,0 -18,22 0,22 C18,22 15,0 15,0 Z @dp</string>
+</resources>
