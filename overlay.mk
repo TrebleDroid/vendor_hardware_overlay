@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-duoqin-qinf21pro \
 	treble-overlay-essential-ph_1 \
 	treble-overlay-fairphone-fp3 \
+	treble-overlay-freeyond-m5a \
 	treble-overlay-highpriomisc \
 	treble-overlay-htc-exodus1 \
 	treble-overlay-htc-u12plus \
@@ -58,6 +59,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-huawei-VTR \
 	treble-overlay-huawei-WAS \
 	treble-overlay-hw-ims \
+	treble-overlay-infinix-hot40i \
 	treble-overlay-infinix-hot60proplus \
 	treble-overlay-infinix-hot60proplus-systemui \
 	treble-overlay-infinix-note10 \
@@ -73,6 +75,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-infinix-note7 \
 	treble-overlay-infinix-note8 \
 	treble-overlay-infinix-s4 \
+	treble-overlay-infinix-smart8 \
 	treble-overlay-infinix-zero6 \
 	treble-overlay-infinix-zeroxpro \
 	treble-overlay-lenovo-Q706F \

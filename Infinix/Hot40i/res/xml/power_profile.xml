@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="Android">
+    <item name="screen.on">45.04</item>
+    <item name="screen.full">317.4</item>
+    <item name="audio">25.4</item>
+    <item name="video">63.12</item>
+    <item name="camera.flashlight">252.55</item>
+    <item name="camera.avg">792.02</item>
+    <item name="radio.active">220</item>
+    <item name="radio.scanning">40.35</item>
+    <item name="bluetooth.controller.idle">0.611</item>
+    <item name="bluetooth.controller.rx">54.6</item>
+    <item name="bluetooth.controller.tx">62.2</item>
+    <item name="bluetooth.controller.voltage">3300</item>
+    <array name="cpu.clusters.cores">
+        <value>6</value>
+        <value>2</value>
+    </array>
+    <array name="cpu.core_speeds.cluster0">
+        <value>614400</value>
+        <value>768000</value>
+        <value>884000</value>
+        <value>1040000</value>
+        <value>1228800</value>
+        <value>1378000</value>
+        <value>1536000</value>
+        <value>1612000</value>
+    </array>
+    <array name="cpu.core_speeds.cluster1">
+        <value>768000</value>
+        <value>1040000</value>
+        <value>1228800</value>
+        <value>1404000</value>
+        <value>1536000</value>
+        <value>1612000</value>
+    </array>
+    <array name="cpu.core_power.cluster0">
+        <value>12.289</value>
+        <value>15.155</value>
+        <value>16.159</value>
+        <value>16.383</value>
+        <value>26.052</value>
+        <value>34.369</value>
+        <value>43.067</value>
+        <value>48.658</value>
+    </array>
+    <array name="cpu.core_power.cluster1">
+        <value>59.796</value>
+        <value>80.442</value>
+        <value>95.189</value>
+        <value>106.145</value>
+        <value>127.112</value>
+        <value>143.536</value>
+    </array>
+    <item name="cpu.suspend">2.25</item>
+    <item name="cpu.idle">4.29</item>
+    <item name="cpu.active">0</item>
+    <item name="cpu.cluster_power.cluster0">6.478</item>
+    <item name="cpu.cluster_power.cluster1">26.141</item>
+    <item name="battery.capacity">5000</item>
+    <item name="wifi.controller.idle">0.419</item>
+    <item name="wifi.controller.rx">239.89</item>
+    <item name="wifi.controller.tx">330.6</item>
+    <item name="wifi.controller.voltage">3300</item>
+    <item name="modem.controller.sleep">0</item>
+    <item name="modem.controller.idle">0.8</item>
+    <item name="modem.controller.rx">90</item>
+    <array name="modem.controller.tx">
+        <value>10</value>
+        <value>100</value>
+        <value>180</value>
+        <value>270</value>
+        <value>380</value>
+    </array>
+    <item name="modem.controller.voltage">3700</item>
+    <array name="gps.signalqualitybased">
+        <value>13.94</value>
+        <value>27.9</value>
+    </array>
+    <item name="gps.voltage">3700</item>
+</device>
