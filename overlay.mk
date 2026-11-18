@@ -131,6 +131,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-razr \
 	treble-overlay-moto-rhodep \
 	treble-overlay-moto-rhodep-systemui \
+	treble-overlay-moto-scout \
 	treble-overlay-moto-tesla \
 	treble-overlay-moto-tesla-systemui \
 	treble-overlay-moto-tundra \
